@@ -1,5 +1,4 @@
 ## COMM 7018 SOCIAL MEDIA THEORY
-
 Fitchburg State University
 Communications Media Department
 MS, Applied Communication, Social Media Concentration
@@ -7,7 +6,7 @@ GCE Online-Accelerated
 
 7 weeks, Monday 16 May – Monday 4 July 2022
 Instructor: Dr. Martin Roberts
-Contact information: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
+Contact: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
 
 ***
 
@@ -47,141 +46,276 @@ The core book for the course is Johnson, D. G., & Wetmore, J. M.
 
 Other readings will be made available on Blackboard, and will be located within their proper week on Blackboard.
 
-### RESEARCH SOURCES
+REQUIRED
+- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016. ISBN: 978-0745662510
+- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019. ASIN: B076GNS3J4
+- Joanna Zylynska, _The Future of Media_. London: Goldsmiths Press, 2022. ISBN: 978-1913380144
 
-[Points](https://points.datasociety.net/) (Data & Society blog)
-[The Pudding](https://pudding.cool/about/)
-[Real Life](https://reallifemag.com/about)
-[Rest of World](https://restofworld.org/)
+RECOMMENDED
+- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_. www.chinachannel.com, 2020. ISBN: 979-8694483292
+- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. ISBN: 978-0374538651
 
-***
+COMM 7018 – Social Media Theory
 
-### COURSE FORMAT
-The course’s primary platform will be the Blackboard Learning Management System (LMS). Blackboard will be used for the course syllabus, reading assignments, lectures, discussion forums, written assignments, and messaging. These materials may be accessed either via a desktop or laptop computer or via a smartphone or other networked device. Since the course is conducted entirely online, all students are expected to have a cellphone with internet access and accounts on at least several of the major social media platforms.
+**Online/Asynchronous Course 3 credits Kyle Moody, PhD [Kmoody4@fitchburgstate.edu](mailto:Kmoody4@fitchburgstate.edu)
 
-Outside Blackboard, we will also be using a number of other communication tools and platforms, including Internet Relay Chat (IRC), RSS feeds, and/or social bookmarking sites. NB: although we will be referencing commercial social media platforms throughout the course, we will not be using these as part of the course itself.
+[Office: CNIC 316Office Hours: By appointment only. Reserve appointment times here.](https://calendar.google.com/calendar/selfsched?sstoken=UUo0ck1GRzljTkg1fGRlZmF1bHR8NmYxNzRlODY0ZmU3M2E2MzA3ZWNhMWM5ZmMwOWM2NjY)
 
-***
+Course Description
 
-### ASSIGNMENTS & EVALUATION
+_Technology _is _neither _good _nor _bad, _nor _is _it _neutral._
 
-**1\. REST OF WORLD BLOG HOSTING (20%)**
-Each week, two students in turn will be assigned as hosts on the Rest of World blog that will run throughout the course. Your role will be to select an article from the [Rest of World](https://restofworld.org/) global tech news site for reading and discussion by the class. You will write a short introduction to your chosen article and provide some additional comments and/or links to related resouces on the subject (250 words).
+Melvin Kranzberg, 1986
 
-**2\. ALTERNATIVE ECOSYSTEMS (20%)**
-Report on participant observation of an alternative social media community among one of those introduced in the course: Mastodon, Gemini, the digital garden community, tilde communities, or Scuttlebutt. This may be documented either by a written report or using the platform in question itself, e.g. by producing a digital garden or Gemini blog (gemlog) using [**flounder**](https://flounder.online/) or [**gemlog.blue**](https://gemlog.blue/). Runs throughout the semester.
+Social media are powerful forces in the modern world, with much good linked to their implementation and integration into the social fabric. Nevertheless, technological development is not an unqualified blessing: Technologies may have negative effects for some people, at some times, in some circumstances. Some negative consequences are unanticipated, some are predictable, and some are intentional features of the design or implementation. But because social media technologies are rightly seen as indispensable for solving problems and improving the quality of life – particularly in the wake of the COVID-19 pandemic – societies invest in the design and development of technologies, hoping to shape and direct it.
 
-**3\. CONNECT THE DOTS: FILM ESSAY (20%)**
-The course includes weekly documentary film viewing assignments, which should be completed by **Monday** of any given week. This assignment is a response and review essay (1000 words, 4 pp.) on any of the films assigned during the course. Your objective should be to discuss the documentary within the framework assigned readings and “connect the dots” between them. Floating deadline, due one week after screening date for the selected film.
+This class will explore the relationship between technology and society to understand where technologies come from, how they are used within social media, and how they may be shaped to create better futures in society and industry. It is not a class where memorization is the primary goal. Instead we will develop skills for critical analysis and argument development. As we do this we will continually pose four important questions:
 
-**4\. DISCUSSION (20%)**
-Participation in online discussions of reading assignments. An initial post with questions or comments on reading assignments is due on **Friday** each week, with a follow-up post due the following **Monday**. Additional posts are expected to respond to comments from other class members. Weekly.
+First, where do technologies come from and why do they work as they do? Technologies are human creations, and so their forms and uses reveal the interests and purposes of the people, institutions, and societies that build them.
 
-**5\. RESEARCH PROJECT (20%)**
-A paper of 2,000 words in length (8 pages double-spaced approx., excluding bibliography) that explores a problem or question on any topic relevant to the course. Special Interest Groups (SIG) will be formed on approved or suggested topics around the middle of the semester and students will collaborate on developing and researching their essay in dialog with their peers. Essays will be available to the group and will be discussed during the final week of classes.
+Second, how do technologies shape our world? We will explore the variety of ways by which machines and techniques become embedded in society and thereby shape institutions, relationships, and values through their public face on social media.
 
-***
+Third, what kind of future do we want? Many of the articles we will read argue that certain values are of key importance to a just society, which challenges us to consider which values we should hold most dear and defend. This question is useful because it can help us better determine where our abilities and talents in the communications field may lead to our goals.
 
-### WEEKLY SCHEDULE
+And fourth, how can we make decisions about technology that will get us to the future we want? Once we understand the role of technology in society and the world we want to build, we must develop strategies for getting us from here to there.
 
-***
-Week 1: Monday 16 May 2022
+The basic structure of the course is, over the weekend we’ll read multiple scholarly articles on a topic. You’ll submit one question about the readings before the next week’s class. Online, we’ll discuss the readings carefully to build a solid understanding of a core concept, focusing on your questions. I’ll be uploading videos throughout the weeks to help you understand the readings and their intentions more, along with providing fodder for debate in the discussion boards.
 
-### PART I: LEARNING TO LABOR
+You’ll also develop a term project that will reflect your learning in and out of the class.
 
-### MOBILE SERVICES & THE PLATFORM ECONOMY
-We begin by looking at the rapid emergence worldwide of what has become known as the platform economy: the proliferating services based on mobile apps such as Uber, Lyft, Doordash, and many others. The emergence of this “gig economy” has raised concerns not only about exploitative wages but also toxic and even dangerous work environments. We explore these issues via current and recent articles on the global tech news platform Rest of World.
+Learning Objectives
 
-Andrew Deck, “[The Chinese Content Farms Behind Factory TikTok](https://restofworld.org/2021/the-chinese-content-farms-behind-factory-tiktok/)”
-“[The Global Gig Workers](https://restofworld.org/search/gig)” (Rest of World dossier, 4 articles)
+By the end of the course, students will be able to:
 
-***
+analyze technologies past, present, and imagined
 
-Week 2: Monday 23 May 2022
+describe the ways in which technologies shape our world the ways in which we shape those technologies
 
-### LIKE & SUBSCRIBE: CREATIVE LABOR & SOCIAL MEDIA ENTERTAINMENT  
-This week explores the endlessly mutating and increasingly strange world of Social Media Entertainment (SME), including ASMR videos, Chinese _wanghong_ (influencers), Japanese VTubers, Korean _mukbang_ (binge-eating) channels, and TikTok. We consider the multi-channel networks (MCNs) that seek to extract capital from these mutations via advertising and commodity culture, and the standardization and ephemerality of creative content itself.
+explain how social media is a result of the intersection between technologies and existing human communication dynamics
 
-Elaine Jing Zhao, “_Wanghong_: Liminal Chinese Creative Labor” (in Cunningham & Craig, eds., _Creator Culture_)
-Roland Kelts, “[Japan’s virtual YouTubers have millions of real subscribers — and make millions of real dollars](https://restofworld.org/2021/vtubers/)”
-Henry Jenkins, “[Free Human Kindness: How ASMR is Helping Us Survive the Pandemic, Clinical Depression, and America’s Culture Wars](http://henryjenkins.org/blog/2021/9/20/an-interview-with-charlie-jenkins)”
+discuss how theory of technology and social media can improve the vocational outlook of a student
 
-Watch: [_This Is Everything: Gigi Gorgeous_](https://www.youtube.com/watch?v=10WmFYiMnoI) (2019) \[YouTube, $2.99 rental\]
+play a productive role in and even facilitate conversations that tease out the relationships between values and technology
 
-***
+through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in
 
-Week 3: Monday 30 May 2022
+Schedule of Assignments
 
-### PART II: NETWORKED PUBLICS
+This schedule is _subject _to _change_. Any changes to the reading materials will be announced in class and changed on Blackboard.
 
-### HASHTAG ACTIVISM: RESISTANCE MOVEMENTS
-This week focuses on online social activism, including the role of social networks in national and transnational resistance movements, from the 2011 Arab Spring to the emergence of the Occupy and Black Lives Matter movements in the U.S. How effective have those platforms been as catalysts for progressive social change?
+Readings from the course book are in bold. Other readings are *starred where they appear in the schedule of assignments below, and will be available on Blackboard.
 
-Zeynep Tufekci, “Signaling Power and Signaling to Power”; “Governments Strike Back” (_Twitter and Tear Gas_, chs. 8-9)
-Jason Parham, “[A People’s History of Black Twitter](https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/)”
-Raven Maragh-Lloyd, “Black Twitter as Semi-Enclave” (in Lopez, _Race and Media: Critical Approaches_)
+You must read all the readings and discussion boards for the week *before Friday evening, as your discussion board overviews and questions are due Friday evening on the respective Blackboard discussion boards.
 
-***
+week Topic
 
-Week 4: Monday 6 June 2022
+learning outcomes Reading
 
-### SMILE FOR THE CAMERA: SURVEILLANCE & CITIZENSHIP 
-This week considers the use of facial recognition technologies by the state to regulate social behavior and political activity in twenty-first century societies, focusing on the social credit system in China.
+1
 
-Michael Standaert, “[Smile for the Camera: The Dark Side of China’s Emotion-Recogntion Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)” (_The Guardian_, 3 March 2021)
-Kai Strittmatter, _You Have Been Harmonized_, chapters: “The Net: How the Party Learned to Love the Internet”; “The New Man: How Big Data and a Social Credit System are Meant to Turn People into Good Subjects”
+Sociotechnical Systems
 
-Watch: [_The Internet of Everything_](https://www.amazon.com/Internet-Everything-Brett-Gaylor/dp/B089NTB27S) (Brett Gaylor, 2020) \[Amazon, $2.99 rental\]
+Recognize interplay of technology, society, and human values
 
-***
+Understand and use concepts of utopia and dystopia, role of imagined futures in shaping the present
 
-Week 5: Monday 13 June 2022
+Introduction, pp. xi-xv; Visions of a Technological Future, pp. 1-3
 
-### PART III: ANTISOCIAL MEDIA
+E.M. Forster, “The Machine Stops”
 
-### TROLLS’R’US: 4CHAN & ANONYMOUS
+*Carey, “Technology & Ideology”
 
-Gabriella Coleman, “Introduction: ‘Now You Have Got Our Attention’”; “On Trolls, Tricksters, and the Lulz” (_Hacker, Hoaxer, Whistleblower, Spy_)
-Whitney Phillips, _This Is Why We Can't Have Nice Things_, ch. 2
-See also: Zoë Quinn, _Crash Override_
+Dyson, “Technology & Social Justice” 2
 
-Watch: [_We Are Legion: The Story of the Hacktivists_](https://www.youtube.com/watch?v=TfunqNKIDPI) (Brian Knappenberger, 2012) \[YouTube, free\]
- [_GTFO: The Movie_](https://www.youtube.com/watch?v=w_0nGl7Pwx8) (2015) \[YouTube, $2.99 rental\]
+Technological Determinism and Momentum
 
-***
+Define, apply, and critique theories of technological determinism and momentum
 
-Week 6: Monday 20 June 2022
+Heilbroner, “Do Machines Make History?”
 
-### MEME FACTORY: CULTURAL POLITICS  
-The appropriation of meme culture by the white cultural supremacist movement in the run-up to and aftermath of the 2016 U.S. election has problematized assumptions about the effectiveness of memes as a tool of political critique. This week we consider the current state of meme culture and assess its potential as a platform for progressive political and social critique.
+Benjamin, W. “The Work of Art in the Age of Mechanical Reproduction.”
 
-Whitney Phillips and Ryan M. Milner, ch. 2 of _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_
-Angela Nagle, selected chs. from _Kill All Normies_
-Taraneh Azar, “[The Meme Is The Message](https://www.themememessage.com/)” (special report)
+Hughes, “Technological Momentum”
 
-Watch:
-[_Feels Good Man_](https://www.amazon.com/Feels-Good-Man-Matt-Furie/dp/B08FFCR12S) (Arthur Jones, 2020) \[Amazon, $2.99 rental\]
+Andrejevic, M. (2007). “Social Network Exploitation”
 
-***
+3
 
-Week 7: Monday 27 June 2022
+Social Construction
 
-### DETOXING: DIGITAL FUTURES
-We conclude by considering recent proposals on how to address the polluted social media environment, and assess the prospects for a better digital future.
+Define, apply, and critique theories of social construction of technologies
 
-Whitney Phillips and Ryan M. Milner, selected chs. of _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_
+Pinch and Bijker, “The Social Construction of Facts and Artifacts”
 
-Monday 4 July 2022: Last day of classes
+*Kline and Pinch, “Users as Agents of Technological Change”
 
-***
+Habermas, J. “The Public Sphere: An Encyclopedia Article.”
 
-### SOURCES: ONLINE
-Taraneh Azar, “[The Meme Is The Message](https://www.themememessage.com/)” (special report)
-Sam LaVigne, [Intro to the Command Line](https://scrapism.lav.io/intro-to-the-command-line/)
-Jason Parham, “[A People’s History of Black Twitter](https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/)” (3 parts, _WIRED_, 15 July 2021)
-[Points](https://points.datasociety.net/) (Data & Society blog)
+Papacharissi, Z. (2002). The virtual sphere: The internet as a public sphere.
 
-***
+4
+
+Actor-Network Theory
+
+Define, apply, and critique Actor-Network Theory
+
+Latour, “Where are the Missing Masses? The sociology of a Few mundane Artifacts”
+
+*Cypher and Richardson, “An actor-network approach to games and virtual environments”
+
+Hall, S. “Encoding/Decoding.”
+
+Smythe, D.W. “On the Audience Commodity and its Work.”
+
+5
+
+Values and Technology
+
+Begin to identify and critique values embodied in sociotechnical systems
+
+Understand sociotechnical forces shaping concepts and presentations of the human body via digital platforms
+
+Introduction, pp. 205-207
+
+Winner, “Do Artifacts have Politics?”
+
+Ritzer, “Control: Human and Nonhuman Robots”
+
+Tiidenberg, “Great Faith In Surfaces: Visual Narrative Analyses of Selfies” 6
+
+Technologies of Gender and Race
+
+Understand and diagnose gendered biases in sociotechnical systems
+
+Understand how social media and gaming platforms shaped discourse in a gendered controversy
+
+Understand and diagnose racial and class biases in sociotechnical systems
+
+Wajcman, “The Feminization of Work in the Information Age”
+
+Weber, “Manufacturing Gender in Commercial and Military Cockpit Design”
+
+Terranova, T. (2000). Free labor: Producing culture for the digital economy. _Social Text_, 18(2), 33-58. (Available on Blackboard)
+
+Dyer, “White”
+
+*Bergstrom, “Don’t Feed the Trolls” 7
+
+Software: Code and Algorithms
+
+Lessig, “Code Is Law”
+
+*Sicart, “The Ethics of Computer Game Design”
+
+*Kraemer et al., “Is There an Ethics of Algorithms?”
+
+Class Rules and Grading Policies
+
+Classroom Expectations
+
+You are required to use Blackboard during class. Course materials, reading assignments, due dates and outlines are posted on Blackboard and may be updated weekly: this means that assigned readings, assignments and due dates _may _change. You are responsible for reading any course announcements that are posted on Blackboard. In addition, you may have to complete assignments or upload documents to Blackboard.
+
+This class, while online, is a safe space from racist, sexist and homophobic speech. Don’t do it. If you do use hate speech in any forum associated with the class you will be subject to removal from class and possibly University disciplinary action. Keep it clean, polite and respectful on class time.
+
+If you’re unsure, ask me before you do it, say it, copy it, or take it.
+
+Grades
+
+Grades will be based one midterm and one final exam, one term project and presentation, and class participation.
+
+Midterm Project Description 25%
+
+Term Project and Presentation* (graded across semester) 50% Participation on Class Discussion Boards 25%
+
+*see below for specific breakdown of points within this category
+
+Assignments
+
+*By the end of every Friday evening, you will have done one of the following:- posted an overview and set of questions regarding the readings on the discussion board for the weekly readings
+
+submitted at least one response to at least one classmate on their question
+
+It’s very important that you make sure you are thinking about your readings and responses as soon as possible, and I have posted video commentaries on the readings in the Course Documents -> Online Videos sections. Please make sure you do the readings and videos as soon as possible.
+
+*The term project:
+
+In week 2 you will submit a one-page project proposal, using the proposal template I’ll provide on Blackboard, on a topic of interest to you. This will be worth 5% of your final grade.
+
+Do _not submit a proposal without discussing it with me first. I will provide you with suggestions for research and development, along with helping you refine your topic and project deliverable. There is a discussion board already available for you to submit ideas and discuss this with us so all of us can talk about your idea. It’s a great way to show the class what you enjoy, and to let all of us contribute to your excellence.
+
+Deliverables can include scholarly research papers, fieldwork reports, media creations, app/software design, or other things in consultation with me.
+
+Use your imagination and don’t be boring.
+
+In week 4 you will submit a project progress report. This will focus on what you’ve done to meet the goals you set out in your proposal and what you need to do to complete successfully. This will be worth 5% of your final grade.
+
+In week 7 you will deliver a video and audio presentation on your project. This will address what your topic was, why you chose it, why it should matter to your audience, what you did to investigate it, and what you concluded. This
+
+will be worth 5% of your final grade.
+
+To do this in PowerPoint: There should be a menu called “Slide Show.” On this menu, there’s a choice called “Slide transition (or just Transitions) . . . ” When you select it, you’ll see options for advancing the slide. Clear the check box beside “On Mouse Click,” and put (for example) “20″ in the box: “Automatically after  	 seconds.”
+
+Final presentations are hard. Rehearse, and then rehearse a lot more. I will book a time for rehearsals the week before presentation day. Attendance will be optional but strongly encouraged.
+
+In week 7 you will also submit your paper. This will be worth 20% of your final grade.
+
+The written questions:
+
+In the weeks specified on the schedule (pay careful attention!):
+
+By the end of the day on Friday each week post one substantive* question or comment related to any of the readings for the following week. You are also required to comment on the work done by your fellow students.
+
+*See “Reading Questions & Responses” below for detail on what a “substantive” question is and how to write a good one.
+
+The question assignment is designed to do several things.
+
+It shows what’s interesting to all of you: are there particular points or issues that consistently draw the class’s attention?
+
+It also highlights things people might not have understood, or would like to see expressed more clearly during our class sessions.
+
+It also helps us all get to know _you better – are you the one who always asks about economics, or politics, or pop culture?
+
+Reading questions and responses:
+
+A _bad_ question will be superficial, like a grade-school pop quiz question: “How does the author define X?” “How many copies of _Halo _Reach were sold last year?” Bad questions have answers in the material or are stock questions that could be applied to anything, without thought. “Isn’t this bad for kids?”
+
+A _fine question asks for explanation or clarification: “Does Huizinga mean that games played for money aren’t games at all, or that they somehow stop being games when people get paid?”
+
+A _great question links the reading to something else: “How does Huizinga’s attitude towards being paid to play relate to the role of amateurism in the Olympics and European aristocratic attitudes towards labor?”
+
+A sentence or two is fine. You won’t get more credit for more words: conciseness and clarity are good things.
+
+Below are two examples of questions from a previous class (on games studies) that represent “fine” and “great” questions.
+
+_Example _#1:_
+
+“I want to primarily focus on "Bow, N****". How has the internet and by extension online gaming allowed for individuals to express racial views that are considered socially unacceptable? Do these people truly feel this way or is there some sort of stimulus that promotes this usage online?”
+
+_Example _#2_
+
+“I'm talking about Alter Ego	The more options and choices that were
+
+presented, the more unrealistic portions of the game seemed.	At what point do
+
+we sacrifice realism in favor of control over the story? And at what point do we sacrifice control for the sake of realism? In my experience some of the best entertainment has come from finding the proper balance of these two, be it in a book, video game, or other form of media	It is this choice that leads to the
+
+complexity and realism in life that I don't think video games are able to capture in its complexity and nuances.
+
+GCE Learning Competencies
+
+_Critical Thinking & Problem Solving_: The exam and term project formats are designed to confront students with a case drawn from current events in order to demonstrate their ability to apply theories, diagnose problems, and suggest solutions, both in a real-time, in-class exercise and over the course of the term in a more deliberative manner. In-class discussion focuses on students’ developing and defending personal views on key issues based upon evidence and theoretical frames.
+
+_Communication: Students are encouraged to develop strengths in both written and oral communication, both deliberative and spontaneous, while the grading rubric recognizes that students have different strengths and comfort levels across media of expression. The format of the final presentation places a premium on conciseness, mastery of the material to be presented, and audience impact.
+
+_Ethical Decision Making:_ This course examines the ethical underpinnings of technology design and use. It actively encourages students to discern and critique the ethical components of technology and to assert their own ethical values in technological analysis. The exams in particular call upon students to articulate an ethical and theoretical underpinning for their diagnoses of current problems and advocacy of solutions to those problems.
+
+_Global _Awareness_: This course addresses the impact of technologies at the global scale, introduces concepts of global technological governance, and provides a range of readings and guest speakers from outside the US.
+
+_Civic Engagement:_ This course does not call upon students to demonstrate civic engagement. Rather, it provides tools of critical thinking, ability to recognize global and local impacts, and the articulation of personal political lenses based upon
+
+theoretical frameworks and data analysis, in order to empower students with the tools for informed and effective engagement with the impacts of technologies at local, national, and global levels.
+
+[This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
 
 ### SOURCES: PRINT  
   
