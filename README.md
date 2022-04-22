@@ -1,17 +1,17 @@
-## COMM 7018 SOCIAL MEDIA THEORY
-Fitchburg State University
-Communications Media Department
-MS, Applied Communication, Social Media Concentration
-GCE Online-Accelerated
+## COMM 7018 SOCIAL MEDIA THEORY  
+Fitchburg State University  
+Communications Media Department  
+MS, Applied Communication, Social Media Concentration  
+GCE Online-Accelerated  
 
-7 weeks, Monday 16 May – Monday 4 July 2022
-Instructor: Dr. Martin Roberts
-Contact: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
+7 weeks, Monday 16 May – Monday 4 July 2022  
+Instructor: Dr. Martin Roberts  
+Contact: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
 
 ***
 
-### DESCRIPTION
-Syllabus - COMM 7018 - Social Media Theory - Summer 2021
+### DESCRIPTION  
+Syllabus - COMM 7018 - Social Media Theory - Summer 2021  
 
 Social media are powerful forces in the modern world, with much good linked to their implementation and integration into the social fabric. Nevertheless, technological development is not an unqualified blessing: Technologies may have negative effects for some people, at some times, in some circumstances. Some negative consequences are unanticipated, some are predictable, and some are intentional features of the design or implementation. But because social media technologies are rightly seen as indispensable for solving problems and improving the quality of life – particularly in the wake of the COVID-19 pandemic – societies invest in the design and development of technologies, hoping to shape and direct it.
 
