@@ -10,22 +10,31 @@ Contact: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
 
 ***
 
-### DESCRIPTION  
-Syllabus - COMM 7018 - Social Media Theory - Summer 2021  
+### OVERVIEW  
+*Social media* can be defined as an array of networked, technologically-mediated practices of symbolic communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities.
 
-Social media are powerful forces in the modern world, with much good linked to their implementation and integration into the social fabric. Nevertheless, technological development is not an unqualified blessing: Technologies may have negative effects for some people, at some times, in some circumstances. Some negative consequences are unanticipated, some are predictable, and some are intentional features of the design or implementation. But because social media technologies are rightly seen as indispensable for solving problems and improving the quality of life – particularly in the wake of the COVID-19 pandemic – societies invest in the design and development of technologies, hoping to shape and direct it.
+What is *social media theory*?  
+What does it mean to *theorize* social media?
+Why do we need social media theory at all?
 
-This class will explore the relationship between technology and society to understand where technologies come from, how they are used within social media, and how they may be shaped to create better futures in society and industry. It is not a class where memorization is the primary goal. Instead we will develop skills for critical analysis and argument development. As we do this we will continually pose four important questions:
+To *theorize* something involves a number of processes:
+- How do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
+- How are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
+- What is its relation to larger areas of society? What are its implications for those areas?
+- How are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
 
-First, where do technologies come from and why do they work as they do? Technologies are human creations, and so their forms and uses reveal the interests and purposes of the people, institutions, and societies that build them.
+In practice these processes involve the development of analytical frameworks or models comprising particular concepts that are useful for identifying and analyzing key dimensions of the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but typically involve the proposal of new frameworks and concepts specific to the field in question.
 
-Second, how do technologies shape our world? We will explore the variety of ways by which machines and techniques become embedded in society and thereby shape institutions, relationships, and values through their public face on social media.
+We begin by defining the object itself: what exactly do we mean by the term *social media*? Haven't *media* - whether in the ancient or modern sense - always already been *social*? How do *social media* platforms differ from *social networking* platforms? What is a *platform* anyway, and how does it differ from a *medium*?  
 
-Third, what kind of future do we want? Many of the articles we will read argue that certain values are of key importance to a just society, which challenges us to consider which values we should hold most dear and defend. This question is useful because it can help us better determine where our abilities and talents in the communications field may lead to our goals.
 
-And fourth, how can we make decisions about technology that will get us to the future we want? Once we understand the role of technology in society and the world we want to build, we must develop strategies for getting us from here to there.
 
-The basic structure of the course is, over the weekend we’ll read multiple scholarly articles on a topic. You’ll submit one question about the readings before the next week’s class. Online, we’ll discuss the readings carefully to build a solid understanding of a core concept, focusing on your questions. I’ll be uploading videos throughout the weeks to help you understand the readings and their intentions more, along with providing fodder for debate in the discussion boards. You’ll also develop a term project that will reflect your learning in and out of the class.
+
+
+
+
+
+
 
 ### OBJECTIVES  
 By the end of the course, students will be able to:
