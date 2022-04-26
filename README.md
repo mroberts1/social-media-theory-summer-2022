@@ -1,13 +1,11 @@
-## COMM 7018 SOCIAL MEDIA THEORY  
+## COMM 7018: SOCIAL MEDIA THEORY  
 Fitchburg State University  
 Communications Media Department  
 MS, Applied Communication, Social Media Concentration  
 GCE Online-Accelerated  
 
 7 weeks, Monday 16 May – Monday 4 July 2022  
-Instructor: Dr. Martin Roberts  
-Contact: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
-
+Instructor: Dr. Martin Roberts |  [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
 ***
 
 ### OVERVIEW  
@@ -27,15 +25,6 @@ In practice these processes involve the development of analytical frameworks or 
 
 We begin by defining the object itself: what exactly do we mean by the term *social media*? Haven't *media* - whether in the ancient or modern sense - always already been *social*? How do *social media* platforms differ from *social networking* platforms? What is a *platform* anyway, and how does it differ from a *medium*?  
 
-
-
-
-
-
-
-
-
-
 ### OBJECTIVES  
 By the end of the course, students will be able to:
 
@@ -43,180 +32,91 @@ By the end of the course, students will be able to:
 - describe the ways in which technologies shape our world the ways in which we shape those technologies
 - explain how social media is a result of the intersection between technologies and existing human communication dynamics
 - discuss how theory of technology and social media can improve the vocational outlook of a student
-- play a productive role in and even facilitate conversations that tease out the relationships between values and technology
-- through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
+- play a productive role in and even facilitate conversations that tease out the relationships between values and technology.  
+- through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.  
+
+***  
+
+### COURSE TEXTS  
+
+**Required**  
+- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016. ISBN: 978-0745662510  
+- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019. ASIN: B076GNS3J4  
+
+**Recommended**  
+- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020. ISBN: 979-8694483292  
+- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. ISBN: 978-0374538651 
+- Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
+
+**Other sources**
+- Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
+
+***  
+
+### READING SCHEDULE  
+
+**Week 1** M 05/16  
+
+Topic: Defining  
+
+Reading: Daniel Miller, _How the World Changed Social Media_: "What is social media?," "Academic studies of social media" (chs. 1-2).  
+
+***  
+
+**Week 2** M 05/23  
+
+Topic: Sharing  
+
+Reading: Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
+
+***  
+
+**Week 3** M 05/30  
+
+Topic: Feeling  
+
+Reading: Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
+***  
+
+**Week 4** M 06/06  
+
+Topic: Language  
+
+Reading: Gretchen McCulloch, _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+[The Snowclones Database](https://snowclones.org/about/)  
+
+***  
+
+**Week 5** M 06/13  
+
+Topic: Attention  
+
+Reading: Tim Hwang, _Subprime Attention Crisis_: "Introduction," "The Plumbing," "Subprime Attention" (chs. 1, 4)  
+Brennan, _Attention Factory_, chs. tba
+
+***  
+
+**Week 6** M 06/20  
+
+Topic: Power  
+
+***  
+
+**Week 7** M 06/27  
+
+Topic: Ecologies  
+
+Reading: Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)  
 
 ***
 
-### COURSE MATERIALS
-
-The core book for the course is Johnson, D. G., & Wetmore, J. M.  
-(2009). _Technology and society: building our sociotechnical future_. (ISBN- 13: 978-0262600736; ISBN-10: 0262600730) It is generally available to order from booksellers and is also available in Kindle format.
-
-Other readings will be made available on Blackboard, and will be located within their proper week on Blackboard.
-
-REQUIRED
-- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016. ISBN: 978-0745662510
-- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019. ASIN: B076GNS3J4
-- Joanna Zylynska, _The Future of Media_. London: Goldsmiths Press, 2022. ISBN: 978-1913380144
-
-RECOMMENDED
-- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_. www.chinachannel.com, 2020. ISBN: 979-8694483292
-- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. ISBN: 978-0374538651
-
-COMM 7018 – Social Media Theory
-
-**Online/Asynchronous Course 3 credits Kyle Moody, PhD [Kmoody4@fitchburgstate.edu](mailto:Kmoody4@fitchburgstate.edu)
-
-[Office: CNIC 316Office Hours: By appointment only. Reserve appointment times here.](https://calendar.google.com/calendar/selfsched?sstoken=UUo0ck1GRzljTkg1fGRlZmF1bHR8NmYxNzRlODY0ZmU3M2E2MzA3ZWNhMWM5ZmMwOWM2NjY)
-
-Course Description
-
-_Technology _is _neither _good _nor _bad, _nor _is _it _neutral._
-
-Melvin Kranzberg, 1986
-
-Social media are powerful forces in the modern world, with much good linked to their implementation and integration into the social fabric. Nevertheless, technological development is not an unqualified blessing: Technologies may have negative effects for some people, at some times, in some circumstances. Some negative consequences are unanticipated, some are predictable, and some are intentional features of the design or implementation. But because social media technologies are rightly seen as indispensable for solving problems and improving the quality of life – particularly in the wake of the COVID-19 pandemic – societies invest in the design and development of technologies, hoping to shape and direct it.
-
-This class will explore the relationship between technology and society to understand where technologies come from, how they are used within social media, and how they may be shaped to create better futures in society and industry. It is not a class where memorization is the primary goal. Instead we will develop skills for critical analysis and argument development. As we do this we will continually pose four important questions:
-
-First, where do technologies come from and why do they work as they do? Technologies are human creations, and so their forms and uses reveal the interests and purposes of the people, institutions, and societies that build them.
-
-Second, how do technologies shape our world? We will explore the variety of ways by which machines and techniques become embedded in society and thereby shape institutions, relationships, and values through their public face on social media.
-
-Third, what kind of future do we want? Many of the articles we will read argue that certain values are of key importance to a just society, which challenges us to consider which values we should hold most dear and defend. This question is useful because it can help us better determine where our abilities and talents in the communications field may lead to our goals.
-
-And fourth, how can we make decisions about technology that will get us to the future we want? Once we understand the role of technology in society and the world we want to build, we must develop strategies for getting us from here to there.
-
-The basic structure of the course is, over the weekend we’ll read multiple scholarly articles on a topic. You’ll submit one question about the readings before the next week’s class. Online, we’ll discuss the readings carefully to build a solid understanding of a core concept, focusing on your questions. I’ll be uploading videos throughout the weeks to help you understand the readings and their intentions more, along with providing fodder for debate in the discussion boards.
-
-You’ll also develop a term project that will reflect your learning in and out of the class.
-
-Learning Objectives
-
-By the end of the course, students will be able to:
-
-analyze technologies past, present, and imagined
-
-describe the ways in which technologies shape our world the ways in which we shape those technologies
-
-explain how social media is a result of the intersection between technologies and existing human communication dynamics
-
-discuss how theory of technology and social media can improve the vocational outlook of a student
-
-play a productive role in and even facilitate conversations that tease out the relationships between values and technology
-
-through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in
-
-Schedule of Assignments
+### ASSIGNMENT SCHEDULE
 
 This schedule is _subject _to _change_. Any changes to the reading materials will be announced in class and changed on Blackboard.
 
 Readings from the course book are in bold. Other readings are *starred where they appear in the schedule of assignments below, and will be available on Blackboard.
 
 You must read all the readings and discussion boards for the week *before Friday evening, as your discussion board overviews and questions are due Friday evening on the respective Blackboard discussion boards.
-
-week Topic
-
-learning outcomes Reading
-
-1
-
-Sociotechnical Systems
-
-Recognize interplay of technology, society, and human values
-
-Understand and use concepts of utopia and dystopia, role of imagined futures in shaping the present
-
-Introduction, pp. xi-xv; Visions of a Technological Future, pp. 1-3
-
-E.M. Forster, “The Machine Stops”
-
-*Carey, “Technology & Ideology”
-
-Dyson, “Technology & Social Justice” 2
-
-Technological Determinism and Momentum
-
-Define, apply, and critique theories of technological determinism and momentum
-
-Heilbroner, “Do Machines Make History?”
-
-Benjamin, W. “The Work of Art in the Age of Mechanical Reproduction.”
-
-Hughes, “Technological Momentum”
-
-Andrejevic, M. (2007). “Social Network Exploitation”
-
-3
-
-Social Construction
-
-Define, apply, and critique theories of social construction of technologies
-
-Pinch and Bijker, “The Social Construction of Facts and Artifacts”
-
-*Kline and Pinch, “Users as Agents of Technological Change”
-
-Habermas, J. “The Public Sphere: An Encyclopedia Article.”
-
-Papacharissi, Z. (2002). The virtual sphere: The internet as a public sphere.
-
-4
-
-Actor-Network Theory
-
-Define, apply, and critique Actor-Network Theory
-
-Latour, “Where are the Missing Masses? The sociology of a Few mundane Artifacts”
-
-*Cypher and Richardson, “An actor-network approach to games and virtual environments”
-
-Hall, S. “Encoding/Decoding.”
-
-Smythe, D.W. “On the Audience Commodity and its Work.”
-
-5
-
-Values and Technology
-
-Begin to identify and critique values embodied in sociotechnical systems
-
-Understand sociotechnical forces shaping concepts and presentations of the human body via digital platforms
-
-Introduction, pp. 205-207
-
-Winner, “Do Artifacts have Politics?”
-
-Ritzer, “Control: Human and Nonhuman Robots”
-
-Tiidenberg, “Great Faith In Surfaces: Visual Narrative Analyses of Selfies” 6
-
-Technologies of Gender and Race
-
-Understand and diagnose gendered biases in sociotechnical systems
-
-Understand how social media and gaming platforms shaped discourse in a gendered controversy
-
-Understand and diagnose racial and class biases in sociotechnical systems
-
-Wajcman, “The Feminization of Work in the Information Age”
-
-Weber, “Manufacturing Gender in Commercial and Military Cockpit Design”
-
-Terranova, T. (2000). Free labor: Producing culture for the digital economy. _Social Text_, 18(2), 33-58. (Available on Blackboard)
-
-Dyer, “White”
-
-*Bergstrom, “Don’t Feed the Trolls” 7
-
-Software: Code and Algorithms
-
-Lessig, “Code Is Law”
-
-*Sicart, “The Ethics of Computer Game Design”
-
-*Kraemer et al., “Is There an Ethics of Algorithms?”
 
 Class Rules and Grading Policies
 
@@ -246,7 +146,7 @@ submitted at least one response to at least one classmate on their question
 
 It’s very important that you make sure you are thinking about your readings and responses as soon as possible, and I have posted video commentaries on the readings in the Course Documents -> Online Videos sections. Please make sure you do the readings and videos as soon as possible.
 
-*The term project:
+The term project:
 
 In week 2 you will submit a one-page project proposal, using the proposal template I’ll provide on Blackboard, on a topic of interest to you. This will be worth 5% of your final grade.
 
