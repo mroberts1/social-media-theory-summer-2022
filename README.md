@@ -363,15 +363,15 @@ Grading for the course will follow the FSU grading policy below:
 ***
 
 ### ACADEMIC RESOURCES
-Writing Center: [http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
+[Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
 
-Academic Policies: [http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
+[Academic Policies](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
 
-Disability Services: [http://www.fitchburgstate.edu/offices-services-directory/disability-services/](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
+[Disability Services](http://www.fitchburgstate.edu/offices-services-directory/disability-services/](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
 
-Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences: [https://www.getrave.com/login/ fitchburgstate/](https://www.getrave.com/login/fitchburgstate/)
+[Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences](https://www.getrave.com/login/ fitchburgstate/](https://www.getrave.com/login/fitchburgstate/)
 
-University Career Services: [http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/careerservices/](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
+[University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/careerservices/](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
 
 ***
 
