@@ -40,22 +40,24 @@ By the end of the course, students will be able to:
 ### COURSE TEXTS  
 
 **Required**  
-- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016. ISBN: 978-0745662510  
-- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019. ASIN: B076GNS3J4  
+
+- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016.   
+- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019.   
 
 **Recommended**  
-- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020. ISBN: 979-8694483292  
-- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. ISBN: 978-0374538651 
+
+- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020.   
+- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. 
 - Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
-- Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf). London: Goldsmiths Press, 2022.  [Open Access]
+- Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/en/publications/the-future-of-media(ed3f1ada-a46e-4c74-ac5b-9cd59000a732).html). London: Goldsmiths Press, 2022.  [Open Access](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf)  
 
 **Other sources**  
 These sources are either freely available online or will be posted as PDFs on Blackboard.  
 
+- Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014]  
 - Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
 - Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
 - José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_. Oxford: Oxford University Press, 2013.  
-- Joanna Zylinska, ed., _The Future of Media_:
 
 ***  
 
@@ -65,7 +67,7 @@ These sources are either freely available online or will be posted as PDFs on Bl
 
 Topic: Defining  
 
-Reading: Daniel Miller, _How the World Changed Social Media_: "What is social media?," "Academic studies of social media" (chs. 1-2).  
+- Daniel Miller, _How the World Changed Social Media_: "What is social media?," "Academic studies of social media" (chs. 1-2).  
 
 ***  
 
@@ -73,8 +75,8 @@ Reading: Daniel Miller, _How the World Changed Social Media_: "What is social me
 
 Topic: Sharing  
 
-Reading: José van Dijck, _The Culture of Connectivity_: "Facebook and the Imperative of Sharing" (ch. 3)  
-Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
+- José van Dijck, _The Culture of Connectivity_: "Facebook and the Imperative of Sharing" (ch. 3)  
+- Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
 
 ***  
 
@@ -82,7 +84,8 @@ Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" 
 
 Topic: Feeling  
 
-Reading: Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
+- Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
+- Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_: 
 
 
 ***  
@@ -91,8 +94,8 @@ Reading: Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)
 
 Topic: Language  
 
-Reading: Gretchen McCulloch, _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
-[The Snowclones Database](https://snowclones.org/about/)  
+- Gretchen McCulloch, _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+- [The Snowclones Database](https://snowclones.org/about/)  
 
 ***  
 
@@ -100,8 +103,9 @@ Reading: Gretchen McCulloch, _Because Internet_: "Informal Writing," "Typographi
 
 Topic: Attention  
 
-Reading: Tim Hwang, _Subprime Attention Crisis_: "Introduction," "The Plumbing," "Subprime Attention" (chs. 1, 4)  
-Brennan, _Attention Factory_, chs. tba
+- Yves Citton, _The Ecology of Attention_: "Introduction: From Attention Economy to Attention Ecology"  
+- Tim Hwang, _Subprime Attention Crisis_: "Introduction," "The Plumbing," "Subprime Attention" (chs. 1, 4)  
+- See also: Brennan, _Attention Factory_, chs. tba
 
 ***  
 
@@ -109,7 +113,7 @@ Brennan, _Attention Factory_, chs. tba
 
 Topic: Detoxing  
 
-Reading: Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)   
+- Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)   
 
 ***  
 
@@ -117,10 +121,10 @@ Reading: Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecolo
 
 Topic: The Future
 
-Reading: Joanna Zylinska, ed., _The Future of Media_ 
-- [The Future of Social Media]: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing"    
-- [The Future of Activism]: Sue Clayton, "How Smartphones and Digital Apps are Transforming
-Activist Movements" (chs. 7, 14).  
+Joanna Zylinska, ed., _The Future of Media_:
+
+- The Future of Social Media: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing" (ch. 7)
+- The Future of Activism: Sue Clayton, "How Smartphones and Digital Apps are Transforming Activist Movements" (ch. 14).  
 
 ***
 
