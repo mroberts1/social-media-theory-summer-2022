@@ -48,8 +48,12 @@ By the end of the course, students will be able to:
 - Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. ISBN: 978-0374538651 
 - Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
 
-**Other sources**
+**Other sources**  
+These sources are either freely available online or will be posted as PDFs on Blackboard.  
+
 - Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
+- Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
+- José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_. Oxford: Oxford University Press, 2013.  
 
 ***  
 
@@ -67,7 +71,8 @@ Reading: Daniel Miller, _How the World Changed Social Media_: "What is social me
 
 Topic: Sharing  
 
-Reading: Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
+Reading: José van Dijck, _The Culture of Connectivity_: "Facebook and the Imperative of Sharing" (ch. 3)  
+Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
 
 ***  
 
@@ -76,6 +81,8 @@ Reading: Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the I
 Topic: Feeling  
 
 Reading: Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
+
+
 ***  
 
 **Week 4** M 06/06  
