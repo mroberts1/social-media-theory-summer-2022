@@ -5,23 +5,22 @@ MS, Applied Communication, Social Media Concentration
 GCE Online-Accelerated  
 
 7 weeks, Monday 16 May – Monday 4 July 2022  
-Instructor: Dr. Martin Roberts |  [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
-***
+Instructor: Dr. Martin Roberts  
+Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
+
+***  
 
 ### OVERVIEW  
-*Social media* can be defined as an array of networked, technologically-mediated practices of symbolic communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities.
-
-What is *social media theory*?  
-What does it mean to *theorize* social media?
-Why do we need social media theory at all?
+The term _social media_ is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of _social media theory_. But what does it mean to *theorize* social media? Why do we need social media theory at all?
 
 To *theorize* something involves a number of processes:
-- How do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
-- How are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
-- What is its relation to larger areas of society? What are its implications for those areas?
-- How are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
 
-In practice these processes involve the development of analytical frameworks or models comprising particular concepts that are useful for identifying and analyzing key dimensions of the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but typically involve the proposal of new frameworks and concepts specific to the field in question.
+- first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
+- how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
+- what is its relation to larger areas of society? What are its implications for those areas?
+- how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
+
+These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
 We begin by defining the object itself: what exactly do we mean by the term *social media*? Haven't *media* - whether in the ancient or modern sense - always already been *social*? How do *social media* platforms differ from *social networking* platforms? What is a *platform* anyway, and how does it differ from a *medium*?  
 
@@ -37,7 +36,7 @@ By the end of the course, students will be able to:
 
 ***  
 
-### COURSE TEXTS  
+### COURSE READINGS  
 
 **Required**  
 
@@ -46,7 +45,6 @@ By the end of the course, students will be able to:
 
 **Recommended**  
 
-- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020.   
 - Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. 
 - Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
 - Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/en/publications/the-future-of-media(ed3f1ada-a46e-4c74-ac5b-9cd59000a732).html). London: Goldsmiths Press, 2022.  [Open Access](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf)  
@@ -54,6 +52,7 @@ By the end of the course, students will be able to:
 **Other sources**  
 These sources are either freely available online or will be posted as PDFs on Blackboard.  
 
+- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020. 
 - Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014]  
 - Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
 - Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
@@ -128,123 +127,107 @@ Joanna Zylinska, ed., _The Future of Media_:
 
 ***
 
-### ASSIGNMENT SCHEDULE
+### WORKFLOW & EXPECTATIONS
 
-This schedule is _subject _to _change_. Any changes to the reading materials will be announced in class and changed on Blackboard.
+The above schedule is provisional; any changes to reading materials and/or assignment deadlines will be announced on Blackboard.
 
-Readings from the course book are in bold. Other readings are *starred where they appear in the schedule of assignments below, and will be available on Blackboard.
+You are expected to complete reading and and discussion board assignments for each week the end of the day on Friday; discussion board question posts are due Friday evening on their the weekly  discussion boards.
 
-You must read all the readings and discussion boards for the week *before Friday evening, as your discussion board overviews and questions are due Friday evening on the respective Blackboard discussion boards.
+### RULES & GRADING POLICY
 
-Class Rules and Grading Policies
+**Responsibilities**  
+You are required to use Blackboard during class. Course materials, reading assignments, due dates and outlines are posted on Blackboard and updated weekly: this means that assigned readings, assignments and due dates may change. You are responsible for reading any course announcements that are posted on Blackboard.
 
-Classroom Expectations
+This class is a safe space from racist, sexist, or homophobic speech. If you do use hate speech in any forum associated with the class you will be subject to removal from class and possibly University disciplinary action. Keep it clean, polite and respectful on class time.
 
-You are required to use Blackboard during class. Course materials, reading assignments, due dates and outlines are posted on Blackboard and may be updated weekly: this means that assigned readings, assignments and due dates _may _change. You are responsible for reading any course announcements that are posted on Blackboard. In addition, you may have to complete assignments or upload documents to Blackboard.
+### ASSIGNMENTS & EVALUATION
 
-This class, while online, is a safe space from racist, sexist and homophobic speech. Don’t do it. If you do use hate speech in any forum associated with the class you will be subject to removal from class and possibly University disciplinary action. Keep it clean, polite and respectful on class time.
+Grades are based on:
 
-If you’re unsure, ask me before you do it, say it, copy it, or take it.
+- Midterm project description: 25% 
+- Term project and presentation: 50% (various components across the semester - see below for details)
+- Engagement and discussion board participation: 25%
 
-Grades
+Midterm Project Description: 25%
 
-Grades will be based one midterm and one final exam, one term project and presentation, and class participation.
+**Weekly Assignments**  
+By the end of the day on Friday of each week, you will have completed one of the following:
 
-Midterm Project Description 25%
+- posted a short comment on and at least one question about the readings on the discussion board for the week
+- submitted at least one response to at least one classmate on their question
 
-Term Project and Presentation* (graded across semester) 50% Participation on Class Discussion Boards 25%
+It’s very important to keep up with and show that you are thinking about the readings and your responses to them.
 
-*see below for specific breakdown of points within this category
+On **Monday**  of each week, I will make an introductory post called an Agenda that introduces and contextualizes the reading assignments for the week, and identifies key themes, concepts, and/or issues to look out for as you read. Be sure to read the Monday agenda post before beginning the readings, and aim to complete them by around mid-week so that you can post your response and/or questions.
 
-Assignments
+**Term Project**  
+In week 2 you will submit a one-page project proposal, using the proposal template I’ll provide on Blackboard, on a topic relevant to the course that is of interest to you. This is worth 5% of your final grade.
 
-*By the end of every Friday evening, you will have done one of the following:- posted an overview and set of questions regarding the readings on the discussion board for the weekly readings
+You're required to discuss your proposal with me before submitting it. I will provide suggestions for research and development, along with helping you refine your topic and project deliverable. A discussion board will be available for you to submit ideas and discuss this with us so all of us can talk about your idea. 
 
-submitted at least one response to at least one classmate on their question
-
-It’s very important that you make sure you are thinking about your readings and responses as soon as possible, and I have posted video commentaries on the readings in the Course Documents -> Online Videos sections. Please make sure you do the readings and videos as soon as possible.
-
-The term project:
-
-In week 2 you will submit a one-page project proposal, using the proposal template I’ll provide on Blackboard, on a topic of interest to you. This will be worth 5% of your final grade.
-
-Do _not submit a proposal without discussing it with me first. I will provide you with suggestions for research and development, along with helping you refine your topic and project deliverable. There is a discussion board already available for you to submit ideas and discuss this with us so all of us can talk about your idea. It’s a great way to show the class what you enjoy, and to let all of us contribute to your excellence.
-
-Deliverables can include scholarly research papers, fieldwork reports, media creations, app/software design, or other things in consultation with me.
-
-Use your imagination and don’t be boring.
+Deliverables for the term project may include research papers, fieldwork reports, media creations, app/software design, or other things in consultation with me.
 
 In week 4 you will submit a project progress report. This will focus on what you’ve done to meet the goals you set out in your proposal and what you need to do to complete successfully. This will be worth 5% of your final grade.
 
-In week 7 you will deliver a video and audio presentation on your project. This will address what your topic was, why you chose it, why it should matter to your audience, what you did to investigate it, and what you concluded. This
+In week 7 you will deliver an audiovisual presentation on your project. The presentation should address what your project was about, why you chose it, the significance of the topic itself, how you went about investigating it, and what you concluded. This will be worth 5% of your final grade.  
 
-will be worth 5% of your final grade.
-
-To do this in PowerPoint: There should be a menu called “Slide Show.” On this menu, there’s a choice called “Slide transition (or just Transitions) . . . ” When you select it, you’ll see options for advancing the slide. Clear the check box beside “On Mouse Click,” and put (for example) “20″ in the box: “Automatically after  	 seconds.”
+To do this in PowerPoint: There should be a menu called “Slide Show.” On this menu, there’s a choice called “Slide transition (or just Transitions) . . . ” When you select it, you’ll see options for advancing the slide. Clear the check box beside “On Mouse Click,” and put (for example) “20″ in the box: “Automatically after seconds.”
 
 Final presentations are hard. Rehearse, and then rehearse a lot more. I will book a time for rehearsals the week before presentation day. Attendance will be optional but strongly encouraged.
 
 In week 7 you will also submit your paper. This will be worth 20% of your final grade.
 
-The written questions:
+**Discussion board questions**  
 
-In the weeks specified on the schedule (pay careful attention!):
+For the weeks specified on the schedule (pay careful attention!):
 
-By the end of the day on Friday each week post one substantive* question or comment related to any of the readings for the following week. You are also required to comment on the work done by your fellow students.
+- by the end of the day on Friday each week post one substantive  question or comment related to the reading assignments for that  week. You should also submit at least one comment in response to posts by other students.  
 
-*See “Reading Questions & Responses” below for detail on what a “substantive” question is and how to write a good one.
+The pupose of the question assignment is:
 
-The question assignment is designed to do several things.
+- to identify subjects/issues that are of interest to the entire group are there particular points or issues that consistently draw the class’s attention?
+- to highlight aspects people might not have understood, or would like to see expressed more clearly during our class sessions.
+- to help us to get to know _you_ better: are you the person who always asks about economics, or politics, or pop culture?
 
-It shows what’s interesting to all of you: are there particular points or issues that consistently draw the class’s attention?
+**Reading questions and responses**  
+A _weak_ question is superficial, like a grade-school pop quiz question: “How does the author define X?” “How many copies of _Halo Reach_ were sold last year?” Weak questions have answers already in the material or are stock questions that potentially apply to anything: “Isn’t this bad for kids?”
 
-It also highlights things people might not have understood, or would like to see expressed more clearly during our class sessions.
+A _good_ question calls for explanation or clarification: “Does Huizinga mean that games played for money aren’t games at all, or that they somehow stop being games when people get paid?”
 
-It also helps us all get to know _you better – are you the one who always asks about economics, or politics, or pop culture?
+An _excellent_ question link the reading to something else: “How does Huizinga’s attitude towards being paid to play relate to the role of amateurism in the Olympics and European aristocratic attitudes towards labor?”
 
-Reading questions and responses:
+A sentence or two is fine. You won’t get more credit for more words: concision and clarity are good things.
 
-A _bad_ question will be superficial, like a grade-school pop quiz question: “How does the author define X?” “How many copies of _Halo _Reach were sold last year?” Bad questions have answers in the material or are stock questions that could be applied to anything, without thought. “Isn’t this bad for kids?”
+Below are some examples of questions from a previous class (on games studies) that represent “good” and “excellent” questions.
 
-A _fine question asks for explanation or clarification: “Does Huizinga mean that games played for money aren’t games at all, or that they somehow stop being games when people get paid?”
-
-A _great question links the reading to something else: “How does Huizinga’s attitude towards being paid to play relate to the role of amateurism in the Olympics and European aristocratic attitudes towards labor?”
-
-A sentence or two is fine. You won’t get more credit for more words: conciseness and clarity are good things.
-
-Below are two examples of questions from a previous class (on games studies) that represent “fine” and “great” questions.
-
-_Example _#1:_
-
+_Example #1:_  
 “I want to primarily focus on "Bow, N****". How has the internet and by extension online gaming allowed for individuals to express racial views that are considered socially unacceptable? Do these people truly feel this way or is there some sort of stimulus that promotes this usage online?”
 
-_Example _#2_
+_Example #2_  
+“I'm talking about Alter Ego.	The more options and choices that were presented, the more unrealistic portions of the game seemed.	At what point do we sacrifice realism in favor of control over the story? And at what point do we sacrifice control for the sake of realism? In my experience some of the best entertainment has come from finding the proper balance of these two, be it in a book, video game, or other form of media	It is this choice that leads to the complexity and realism in life that I don't think video games are able to capture in its complexity and nuances.
 
-“I'm talking about Alter Ego	The more options and choices that were
+***  
 
-presented, the more unrealistic portions of the game seemed.	At what point do
+### GCE LEARNING COMPETENCIES
 
-we sacrifice realism in favor of control over the story? And at what point do we sacrifice control for the sake of realism? In my experience some of the best entertainment has come from finding the proper balance of these two, be it in a book, video game, or other form of media	It is this choice that leads to the
+**Critical Thinking & Problem Solving**  
+The exam and term project formats are designed to confront students with a case drawn from current events in order to demonstrate their ability to apply theories, diagnose problems, and suggest solutions, both in a real-time, in-class exercise and over the course of the term in a more deliberative manner. In-class discussion focuses on students’ developing and defending personal views on key issues based upon evidence and theoretical frames.
 
-complexity and realism in life that I don't think video games are able to capture in its complexity and nuances.
+**Communication**  
+Students are encouraged to develop strengths in both written and oral communication, both deliberative and spontaneous, while the grading rubric recognizes that students have different strengths and comfort levels across media of expression. The format of the final presentation places a premium on conciseness, mastery of the material to be presented, and audience impact.
 
-GCE Learning Competencies
+**Ethical Decision Making**  
+This course examines the ethical underpinnings of technology design and use. It actively encourages students to discern and critique the ethical components of technology and to assert their own ethical values in technological analysis. The exams in particular call upon students to articulate an ethical and theoretical underpinning for their diagnoses of current problems and advocacy of solutions to those problems.
 
-_Critical Thinking & Problem Solving_: The exam and term project formats are designed to confront students with a case drawn from current events in order to demonstrate their ability to apply theories, diagnose problems, and suggest solutions, both in a real-time, in-class exercise and over the course of the term in a more deliberative manner. In-class discussion focuses on students’ developing and defending personal views on key issues based upon evidence and theoretical frames.
+**Global Awareness**  
+This course addresses the impact of technologies at the global scale, introduces concepts of global technological governance, and provides a range of readings and guest speakers from outside the US.
 
-_Communication: Students are encouraged to develop strengths in both written and oral communication, both deliberative and spontaneous, while the grading rubric recognizes that students have different strengths and comfort levels across media of expression. The format of the final presentation places a premium on conciseness, mastery of the material to be presented, and audience impact.
-
-_Ethical Decision Making:_ This course examines the ethical underpinnings of technology design and use. It actively encourages students to discern and critique the ethical components of technology and to assert their own ethical values in technological analysis. The exams in particular call upon students to articulate an ethical and theoretical underpinning for their diagnoses of current problems and advocacy of solutions to those problems.
-
-_Global _Awareness_: This course addresses the impact of technologies at the global scale, introduces concepts of global technological governance, and provides a range of readings and guest speakers from outside the US.
-
-_Civic Engagement:_ This course does not call upon students to demonstrate civic engagement. Rather, it provides tools of critical thinking, ability to recognize global and local impacts, and the articulation of personal political lenses based upon
-
-theoretical frameworks and data analysis, in order to empower students with the tools for informed and effective engagement with the impacts of technologies at local, national, and global levels.
+**Civic Engagement**  
+This course does not call upon students to demonstrate civic engagement. Rather, it provides tools of critical thinking, ability to recognize global and local impacts, and the articulation of personal political lenses based upon theoretical frameworks and data analysis, in order to empower students with the tools for informed and effective engagement with the impacts of technologies at local, national, and global levels.
 
 [This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
 
-### SOURCES: PRINT  
+### BIBLIOGRAPHY  
   
 \[A\] = Audible.com audiobook
 
