@@ -11,9 +11,9 @@ Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
 ***  
 
 ### OVERVIEW  
-The term _social media_ is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of _social media theory_. But what does it mean to *theorize* social media? Why do we need social media theory at all?
+The term **social media** is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
 
-To *theorize* something involves a number of processes:
+To theorize something involves a number of processes:
 
 - first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
 - how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
@@ -22,7 +22,17 @@ To *theorize* something involves a number of processes:
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
-We begin by defining the object itself: what exactly do we mean by the term *social media*? Haven't *media* - whether in the ancient or modern sense - always already been *social*? How do *social media* platforms differ from *social networking* platforms? What is a *platform* anyway, and how does it differ from a *medium*?  
+We begin by defining the object itself: what exactly do we mean by the term **social media**? Haven't **media** - whether in the ancient or modern sense - always already been **social**? How do **social media** platforms differ from **social networking** platforms? What is a **platform** anyway, and how does it differ from a **medium**? 
+
+We then consider each week some of the key dimensions of social media communication:
+
+- the dimension of **sharing** that is arguably the central practice of social media;
+- the **affective** or emotionally-expresssive dimension of social media, i.e. their role in articulating and sharing **structures of feeling**;
+- the role of **language** in social media and its transformation;
+the concept of the **attention economy** that is the economic basis for commercial social media platforms;
+- the notion of social media as a complex **ecosystem** of interdependent practices, as well as proposals for addressing toxic elements within this ecosystem;
+- finally, we consider the possible **futures** of social media and both their potentially progressive and harmful implications as a site of struggle between competing forces and interests in the century ahead. 
+
 
 ### OBJECTIVES  
 By the end of the course, students will be able to:
