@@ -47,6 +47,7 @@ By the end of the course, students will be able to:
 - Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020. ISBN: 979-8694483292  
 - Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. ISBN: 978-0374538651 
 - Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
+- Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf). London: Goldsmiths Press, 2022.  [Open Access]
 
 **Other sources**  
 These sources are either freely available online or will be posted as PDFs on Blackboard.  
@@ -54,6 +55,7 @@ These sources are either freely available online or will be posted as PDFs on Bl
 - Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
 - Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
 - José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_. Oxford: Oxford University Press, 2013.  
+- Joanna Zylinska, ed., _The Future of Media_:
 
 ***  
 
@@ -105,15 +107,20 @@ Brennan, _Attention Factory_, chs. tba
 
 **Week 6** M 06/20  
 
-Topic: Power  
+Topic: Detoxing  
+
+Reading: Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)   
 
 ***  
 
 **Week 7** M 06/27  
 
-Topic: Ecologies  
+Topic: The Future
 
-Reading: Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)  
+Reading: Joanna Zylinska, ed., _The Future of Media_ 
+- [The Future of Social Media]: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing"    
+- [The Future of Activism]: Sue Clayton, "How Smartphones and Digital Apps are Transforming
+Activist Movements" (chs. 7, 14).  
 
 ***
 
@@ -349,16 +356,16 @@ At some point during the semester you will likely have a problem with technology
 ### GRADING POLICY
 Grading for the course will follow the FSU grading policy below:
 
-4.0: 95-100
-3.7: 92-94
-3.5: 89-91
-3.3: 86-88
-3.0: 83-85
-2.7: 80-82
-2.5: 77-79
-2.3: 74-76
-2.0: 71-73
-0.0: < 70
+4.0: 95-100  
+3.7: 92-94  
+3.5: 89-91  
+3.3: 86-88  
+3.0: 83-85  
+2.7: 80-82  
+2.5: 77-79  
+2.3: 74-76  
+2.0: 71-73  
+0.0: < 70  
 
 ***
 
@@ -370,7 +377,7 @@ Grading for the course will follow the FSU grading policy below:
 
 [Disability Services](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
 
-[Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences](https://www.getrave.com/login/ fitchburgstate/)
+[Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences](https://www.getrave.com/login/fitchburgstate/)
 
 [University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/careerservices/)
 
