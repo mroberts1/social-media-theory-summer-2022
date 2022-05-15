@@ -1,0 +1,120 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.1)  13 MAY 2022 14:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**README.tex
+(./README.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-29> (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-handout.cls
+Document Class: tufte-handout 2015/06/21 v3.5.2 Tufte-handout class
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-common.def
+File: tufte-common.def 2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count181
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count182
+\calc@Bcount=\count183
+\calc@Adimen=\dimen138
+\calc@Bdimen=\dimen139
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count184
+\calc@Cskip=\skip49
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/hardwrap/hardwrap.sty
+Package: hardwrap 2011/02/12 v0.2 Hard wrap messages
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+
+Package ifplatform Warning: 
+    shell escape is disabled, so I can only detect \ifwindows.
+
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\hw@charcount=\count185
+\hw@wordcount=\count186
+\hw@maxprintline=\count187
+)
+Class tufte-handout Info: Loading the base class `article'
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen140
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/xelatex/xltxtra/xltxtra.sty
+Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
+(/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/Users/dokoissho/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-05-04 L3 programming layer (loader) 
+
+! LaTeX3 Error: Mismatched LaTeX support files detected.
+(LaTeX3)        Loading 'expl3.sty' aborted!
+(LaTeX3)        
+(LaTeX3)        The L3 programming layer in the LaTeX format
+(LaTeX3)        is dated 2022-04-29, but in your TeX tree the files require
+(LaTeX3)        at least 2022-05-04.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.77      \ExplLoaderFileDate{expl3.sty}}
+                                         % 
+Here is how much of TeX's memory you used:
+ 1530 strings out of 478142
+ 30602 string characters out of 5852595
+ 316695 words of memory out of 5000000
+ 22183 multiletter control sequences out of 15000+600000
+ 469267 words of font info for 29 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 96i,0n,113p,268b,46s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.

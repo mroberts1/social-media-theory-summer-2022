@@ -5,7 +5,7 @@ subtitle: "" # only for html output
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_html: default
+  tufte::tufte_html: default  
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex
@@ -14,20 +14,21 @@ output:
     latex_engine: xelatex
 link-citations: yes
 ---
-## COMM 7018: SOCIAL MEDIA THEORY  
+
+# COMM 7018: SOCIAL MEDIA THEORY  
 Fitchburg State University  
 Communications Media Department  
 MS, Applied Communication, Social Media Concentration  
 GCE Online-Accelerated  
 
-7 weeks, Monday 16 May – Monday 4 July 2022  
+Monday 16 May – Monday 4 July 2022  
 Instructor: Dr. Martin Roberts  
 Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
 
 ***  
 
-### OVERVIEW  
-The term **social media** is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
+## OVERVIEW  
+`r tufte::newthought('The term')` **social media** is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
 
 To theorize something involves a number of processes:
 
@@ -50,7 +51,7 @@ the concept of the **attention economy** that is the economic basis for commerci
 - finally, we consider the possible **futures** of social media and both their potentially progressive and harmful implications as a site of struggle between competing forces and interests in the century ahead. 
 
 
-### OBJECTIVES  
+## OBJECTIVES  
 By the end of the course, students will be able to:
 
 - analyze technologies past, present, and imagined
@@ -62,17 +63,16 @@ By the end of the course, students will be able to:
 
 ***  
 
-### COURSE READINGS  
+## COURSE READINGS  
 
 **Required**  
 
 - Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016.   
-- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019.   
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019.   
 
 **Recommended**  
 
-- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. 
-- Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
+- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020.  
 - Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/en/publications/the-future-of-media(ed3f1ada-a46e-4c74-ac5b-9cd59000a732).html). London: Goldsmiths Press, 2022.  [Open Access](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf)  
 
 **Other sources**  
@@ -86,17 +86,29 @@ These sources are either freely available online or will be posted as PDFs on Bl
 
 ***  
 
-### READING SCHEDULE  
+## READING SCHEDULE  
 
 **Week 1** M 05/16  
 
-Topic: Defining  
+Topic: Language  
 
-- Daniel Miller, _How the World Changed Social Media_: "What is social media?," "Academic studies of social media" (chs. 1-2).  
-
+- Geoffrey K. Pullum, "[Phrases for Lazy Writers in Kit Form](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000061.html),"  _Language Log_, 27 Oct. 2003  
+- Glen Whitman, "[Phrases for Lazy Writers in Kit Form Are the New Clichés](http://agoraphilia.blogspot.com/2004/01/phrases-for-lazy-writers-in-kit-form.html)," _Agoraphilia_, 14 Jan. 2004  
+- Geoffrey K. Pullum, "[Snowclones: Lexicological Dating to the Second](http://itre.cis.upenn.edu/~myl/languagelog/archives/000350.html)," _Language Log_, 16 Jan. 2004
+- Erin O'Connor, "[A bit of Language-Log-ish geekery](https://kirinqueen.livejournal.com/170517.html), _kirinqeen_ blog, 23 June 2005  
+- [The Snowclones Database](https://snowclones.org/about/)   
+   
 ***  
 
 **Week 2** M 05/23  
+
+Topic: Speaking/Writing
+
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+
+***  
+
+**Week 3** M 05/30  
 
 Topic: Sharing  
 
@@ -105,22 +117,12 @@ Topic: Sharing
 
 ***  
 
-**Week 3** M 05/30  
+**Week 4** M 06/06  
 
-Topic: Feeling  
+ Topic: Feeling  
 
 - Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
 - Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_: 
-
-
-***  
-
-**Week 4** M 06/06  
-
-Topic: Language  
-
-- Gretchen McCulloch, _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
-- [The Snowclones Database](https://snowclones.org/about/)  
 
 ***  
 
@@ -136,37 +138,35 @@ Topic: Attention
 
 **Week 6** M 06/20  
 
-Topic: Detoxing  
+ Topic: The Future
 
-- Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)   
+Joanna Zylinska, ed., _The Future of Media_:
+
+- The Future of Social Media: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing" (ch. 7)
+- The Future of Activism: Sue Clayton, "How Smartphones and Digital Apps are Transforming Activist Movements" (ch. 14) 
 
 ***  
 
 **Week 7** M 06/27  
 
-Topic: The Future
-
-Joanna Zylinska, ed., _The Future of Media_:
-
-- The Future of Social Media: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing" (ch. 7)
-- The Future of Activism: Sue Clayton, "How Smartphones and Digital Apps are Transforming Activist Movements" (ch. 14).  
+Topic: Research papers
 
 ***
 
-### WORKFLOW & EXPECTATIONS
+## WORKFLOW & EXPECTATIONS
 
 The above schedule is provisional; any changes to reading materials and/or assignment deadlines will be announced on Blackboard.
 
 You are expected to complete reading and and discussion board assignments for each week the end of the day on Friday; discussion board question posts are due Friday evening on their the weekly  discussion boards.
 
-### RULES & GRADING POLICY
+## RULES & GRADING POLICY
 
 **Responsibilities**  
 You are required to use Blackboard during class. Course materials, reading assignments, due dates and outlines are posted on Blackboard and updated weekly: this means that assigned readings, assignments and due dates may change. You are responsible for reading any course announcements that are posted on Blackboard.
 
 This class is a safe space from racist, sexist, or homophobic speech. If you do use hate speech in any forum associated with the class you will be subject to removal from class and possibly University disciplinary action. Keep it clean, polite and respectful on class time.
 
-### ASSIGNMENTS & EVALUATION
+## ASSIGNMENTS & EVALUATION
 
 Grades are based on:
 
@@ -234,7 +234,7 @@ _Example #2_
 
 ***  
 
-### GCE LEARNING COMPETENCIES
+## GCE LEARNING COMPETENCIES
 
 **Critical Thinking & Problem Solving**  
 The exam and term project formats are designed to confront students with a case drawn from current events in order to demonstrate their ability to apply theories, diagnose problems, and suggest solutions, both in a real-time, in-class exercise and over the course of the term in a more deliberative manner. In-class discussion focuses on students’ developing and defending personal views on key issues based upon evidence and theoretical frames.
@@ -253,7 +253,7 @@ This course does not call upon students to demonstrate civic engagement. Rather,
 
 [This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
 
-### BIBLIOGRAPHY  
+## BIBLIOGRAPHY  
   
 \[A\] = Audible.com audiobook
 
@@ -301,18 +301,18 @@ Whitney Phillips, _This Is Why We Can't Have Nice Things: Mapping the Relationsh
 
 ***
 
-### LATE POLICY
+## LATE POLICY
 
 Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
 ***
 
-### MANDATORY REPORTER
+## MANDATORY REPORTER
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are “mandatory reporters,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit [http://fitchburgstate.edu/titleix](http://fitchburgstate.edu/titleix) to access information about university support and resources.
 
 ***
 
-### HEALTH
+## HEALTH
 [Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
 
 Hours: Monday-Friday 8:30AM-5PM
@@ -333,7 +333,7 @@ The university continues to partner with Our Father's House to support student n
 
 ***
 
-### ACADEMIC INTEGRITY
+## ACADEMIC INTEGRITY
 The University “Academic Integrity” policy can be found online at [http:// www.fitchburgstate.edu/offices-services-directory/office-of-student-conductmediation-education/academic-integrity/.](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
 
 Plagiarism includes, but is not limited to:
@@ -346,12 +346,12 @@ _If you're not clear on what is or is not plagiarism, ASK. The BEST case scenari
 
 ***
 
-### AMERICANS WITH DISABILITIES ACT (ADA)
+## AMERICANS WITH DISABILITIES ACT (ADA)
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
 
 ***
 
-### TECHNOLOGY
+## TECHNOLOGY
 At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
 
 -   Plan ahead: A deadline is the last minute to turn in material. You can start—and finish—early, particularly if challenging resources are required, or you know it will be time consuming to finish this project.
@@ -366,7 +366,7 @@ At some point during the semester you will likely have a problem with technology
     
   ***
 
-### GRADING POLICY
+## GRADING POLICY
 Grading for the course will follow the FSU grading policy below:
 
 4.0: 95-100  
@@ -382,7 +382,7 @@ Grading for the course will follow the FSU grading policy below:
 
 ***
 
-### ACADEMIC RESOURCES
+## ACADEMIC RESOURCES
 
 [Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
 
