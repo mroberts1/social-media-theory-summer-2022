@@ -5,7 +5,8 @@ subtitle: "" # only for html output
 author: "Martin Roberts"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_html: default  
+  tufte::tufte_html:
+    tufte_variant: "envisioned"
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex
@@ -18,17 +19,16 @@ link-citations: yes
 # COMM 7018: SOCIAL MEDIA THEORY  
 Fitchburg State University  
 Communications Media Department  
-MS, Applied Communication, Social Media Concentration  
-GCE Online-Accelerated  
+MS in Applied Communication: Social Media Concentration  
 
-Monday 16 May – Monday 4 July 2022  
+Schedule: Monday 16 May – Monday 4 July 2022  
 Instructor: Dr. Martin Roberts  
-Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
+Contact: [email](mailto:mrober40@fitchburgstate.edu)    
 
 ***  
 
 ## OVERVIEW  
-`r tufte::newthought('The term')` **social media** is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
+The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
 
 To theorize something involves a number of processes:
 
@@ -48,7 +48,7 @@ We then consider each week some of the key dimensions of social media communicat
 - the role of **language** in social media and its transformation;
 the concept of the **attention economy** that is the economic basis for commercial social media platforms;
 - the notion of social media as a complex **ecosystem** of interdependent practices, as well as proposals for addressing toxic elements within this ecosystem;
-- finally, we consider the possible **futures** of social media and both their potentially progressive and harmful implications as a site of struggle between competing forces and interests in the century ahead. 
+- finally, we consider possible **futures** of social media and both their potentially progressive and harmful implications as a site of struggle between competing forces and interests in the years ahead. 
 
 
 ## OBJECTIVES  
@@ -68,21 +68,21 @@ By the end of the course, students will be able to:
 **Required**  
 
 - Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016.   
-- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019.   
-
-**Recommended**  
-
-- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020.  
-- Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/en/publications/the-future-of-media(ed3f1ada-a46e-4c74-ac5b-9cd59000a732).html). London: Goldsmiths Press, 2022.  [Open Access](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf)  
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), [_Because Internet: Understanding the New Rules of Language_](https://gretchenmcculloch.com/book/). Riverhead Books, 2019.   
 
 **Other sources**  
-These sources are either freely available online or will be posted as PDFs on Blackboard.  
+These sources are either freely available online or excerpts will be posted on Blackboard.  
 
-- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020. 
-- Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014]  
-- Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
-- Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
+- Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014].   
+- Adam D.I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, "[Experimental evidence of massive-scale emotional contagion through social networks](https://doi.org/10.1073/pnas.1320040111)," _PNAS_, vol. 111, no. 24 (17 June 2014): 8788-8790.  
+- Tony D. Sampson, Stephen Maddison, Darren Ellis, eds.,  _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
 - José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_. Oxford: Oxford University Press, 2013.  
+- [Evgeny Morozov](https://twitter.com/evgenymorozov), "[Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason)," _New Left Review_, 133/134 (Jan-Apr 2022).  
+- Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).  
+- [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)," _New York Times_, 12 Nov 2021.
+
+**Media**  
+[Lingthusiasm](https://lingthusiasm.com/episodes) (Gretchen McCulloch's language podcast)
 
 ***  
 
@@ -90,27 +90,24 @@ These sources are either freely available online or will be posted as PDFs on Bl
 
 **Week 1** M 05/16  
 
-Topic: Language  
+Topic: Quickstart  
 
-- Geoffrey K. Pullum, "[Phrases for Lazy Writers in Kit Form](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000061.html),"  _Language Log_, 27 Oct. 2003  
-- Glen Whitman, "[Phrases for Lazy Writers in Kit Form Are the New Clichés](http://agoraphilia.blogspot.com/2004/01/phrases-for-lazy-writers-in-kit-form.html)," _Agoraphilia_, 14 Jan. 2004  
-- Geoffrey K. Pullum, "[Snowclones: Lexicological Dating to the Second](http://itre.cis.upenn.edu/~myl/languagelog/archives/000350.html)," _Language Log_, 16 Jan. 2004
-- Erin O'Connor, "[A bit of Language-Log-ish geekery](https://kirinqueen.livejournal.com/170517.html), _kirinqeen_ blog, 23 June 2005  
-- [The Snowclones Database](https://snowclones.org/about/)   
-   
+Introductions - Course overview and logistics - Assignments
+
 ***  
 
 **Week 2** M 05/23  
 
-Topic: Speaking/Writing
+Topic: Disposession
 
-- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+- [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)"  
+- [Evgeny Morozov](https://twitter.com/evgenymorozov), "Critique of Techno-Feudal Reason" 
 
 ***  
 
 **Week 3** M 05/30  
 
-Topic: Sharing  
+ Topic: Sharing  
 
 - José van Dijck, _The Culture of Connectivity_: "Facebook and the Imperative of Sharing" (ch. 3)  
 - Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
@@ -119,31 +116,35 @@ Topic: Sharing
 
 **Week 4** M 06/06  
 
- Topic: Feeling  
+Topic: Affect  
 
 - Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
-- Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_: 
+- Tony D. Sampson et al., _Affect and Social Media: Emotion, Media, Anxiety and Contagion_: "Introduction: On Affect, Social Media and Criticality"  
+- Optional: Adam D.I. Kramer, et al., "[Experimental evidence of massive-scale emotional contagion through social networks](https://doi.org/10.1073/pnas.1320040111)," _PNAS_, vol. 111, no. 24 (17 June 2014): 8788-8790
 
 ***  
 
 **Week 5** M 06/13  
 
-Topic: Attention  
+Topic: Language
 
-- Yves Citton, _The Ecology of Attention_: "Introduction: From Attention Economy to Attention Ecology"  
-- Tim Hwang, _Subprime Attention Crisis_: "Introduction," "The Plumbing," "Subprime Attention" (chs. 1, 4)  
-- See also: Brennan, _Attention Factory_, chs. tba
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+
+See also:  
+- Geoffrey K. Pullum, "[Phrases for Lazy Writers in Kit Form](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000061.html),"  _Language Log_, 27 Oct. 2003  
+- Glen Whitman, "[Phrases for Lazy Writers in Kit Form Are the New Clichés](http://agoraphilia.blogspot.com/2004/01/phrases-for-lazy-writers-in-kit-form.html)," _Agoraphilia_, 14 Jan. 2004  
+- Geoffrey K. Pullum, "[Snowclones: Lexicological Dating to the Second](http://itre.cis.upenn.edu/~myl/languagelog/archives/000350.html)," _Language Log_, 16 Jan. 2004
+- Erin O'Connor, "[A bit of Language-Log-ish geekery](https://kirinqueen.livejournal.com/170517.html), _kirinqeen_ blog, 23 June 2005  
+- [The Snowclones Database](https://snowclones.org/about/)  
 
 ***  
 
 **Week 6** M 06/20  
 
- Topic: The Future
+Topic: Ecologies  
 
-Joanna Zylinska, ed., _The Future of Media_:
-
-- The Future of Social Media: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing" (ch. 7)
-- The Future of Activism: Sue Clayton, "How Smartphones and Digital Apps are Transforming Activist Movements" (ch. 14) 
+- Yves Citton, _The Ecology of Attention_: "Introduction: From Attention Economy to Attention Ecology"  
+- Whitney Phillps and Ryan Milner, _You Are Here_: "Introduction: Mapping Network Pollution"  
 
 ***  
 
@@ -153,7 +154,7 @@ Topic: Research papers
 
 ***
 
-## WORKFLOW & EXPECTATIONS
+## WORKFLOW  
 
 The above schedule is provisional; any changes to reading materials and/or assignment deadlines will be announced on Blackboard.
 
@@ -255,13 +256,13 @@ This course does not call upon students to demonstrate civic engagement. Rather,
 
 ## BIBLIOGRAPHY  
   
-\[A\] = Audible.com audiobook
+A: = [Audiobook](https://audible.com)
 
-\[A\] danah boyd, _It’s Complicated: The Social Lives of Networked Teens_ (New Haven: Yale University Press, 2014).
+danah boyd, _It’s Complicated: The Social Lives of Networked Teens_ (New Haven: Yale University Press, 2014).
 
-\[A\] Finn Brunton and Helen Nissenbaum, _Obfuscation: A User’s Guide for Privacy and Protest_ (Cambridge: MIT Press, 2016).
+Finn Brunton and Helen Nissenbaum, _Obfuscation: A User’s Guide for Privacy and Protest_ (Cambridge: MIT Press, 2016).
 
-\[A\] Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_ (London and New York: Verso, 2014).
+Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_ (London and New York: Verso, 2014).
 
 David Craig, Jian Lin, and Stuart Cunningham, _Wanghong as Social Media Entertainment in China_. Palgrave Studies in Globalization, Culture and Society (London: Palgrave, 2021).
 
@@ -281,23 +282,23 @@ Lev Manovich, _Instagram and Contemporary Image_ (2015-17).
 
 --\- _Cultural Analytics_ (Cambridge: MIT Press, 2020).
 
-\[A\] Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_ (New York: Riverhead Books, 2019).
+Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_ (New York: Riverhead Books, 2019).
 
-\[A\] Angela Nagle, _Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right_ (Alresford, Hampshire, UK: Zero Books, 2017).
+Angela Nagle, _Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right_ (Alresford, Hampshire, UK: Zero Books, 2017).
 
 Whitney Phillips, _This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture_ (Cambridge: MIT Press, 2015).
 
-\[A\] Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).
+Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).
 
-\[A\] Zoë Quinn, _Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate_ (New York: PublicAffairs, 2017).
+Zoë Quinn, _Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate_ (New York: PublicAffairs, 2017).
 
-\[A\] Jon Ronson, _So You've Been Publicly Shamed_ ( New York: Riverhead Books, 2015).
+Jon Ronson, _So You've Been Publicly Shamed_ ( New York: Riverhead Books, 2015).
 
-\[A\] Kai Strittmatter, _We Have Been Harmonized: Life in China's Surveillance State_ (New York: HarperCollins, 2020).
+Kai Strittmatter, _We Have Been Harmonized: Life in China's Surveillance State_ (New York: HarperCollins, 2020).
 
-\[A\] Zeynep Tufekci, _Twitter and Tear Gas: The Power and Fragility of Networked Protest_ (New Haven: Yale University Press, 2017).
+Zeynep Tufekci, _Twitter and Tear Gas: The Power and Fragility of Networked Protest_ (New Haven: Yale University Press, 2017).
 
-\[A\] Siva Vaidyanathan, _Antisocial Media: How Facebook Disconnects Us and Undermines Democracy_ (Oxford: Oxford University Press, 2018).
+Siva Vaidyanathan, _Antisocial Media: How Facebook Disconnects Us and Undermines Democracy_ (Oxford: Oxford University Press, 2018).
 
 ***
 
