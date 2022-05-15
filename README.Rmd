@@ -75,10 +75,12 @@ These sources are either freely available online or excerpts will be posted on B
 
 - Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014].   
 - Adam D.I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, "[Experimental evidence of massive-scale emotional contagion through social networks](https://doi.org/10.1073/pnas.1320040111)," _PNAS_, vol. 111, no. 24 (17 June 2014): 8788-8790.  
+- Lev Manovich, "The Aesthetic Society, or How I Edit My Instagram," in Peter Mörtenböck and Helge Mooshammer, eds., _Data Publics: Public Plurality in an Era of Data Determinacy_ (New York: Routledge, 2020).     
 - Tony D. Sampson, Stephen Maddison, Darren Ellis, eds.,  _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
 - José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_. Oxford: Oxford University Press, 2013.  
 - [Evgeny Morozov](https://twitter.com/evgenymorozov), "[Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason)," _New Left Review_, 133/134 (Jan-Apr 2022).  
 - Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).  
+- Alise Tifentale, “[Art of the Masses: From Kodak Brownie to Instagram](https://doi.org/10.31165/nk.2015.86.399.v),”  _Networking Knowledge: Journal of the MeCCSA Postgraduate Network_ 8 (6) (2015).  
 - [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)," _New York Times_, 12 Nov 2021.
 
 **Media**  
@@ -90,18 +92,25 @@ These sources are either freely available online or excerpts will be posted on B
 
 **Week 1** M 05/16  
 
-Topic: Quickstart  
+Topic: Language
 
-Introductions - Course overview and logistics - Assignments
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+
+See also:  
+- Geoffrey K. Pullum, "[Phrases for Lazy Writers in Kit Form](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000061.html),"  _Language Log_, 27 Oct. 2003  
+- Glen Whitman, "[Phrases for Lazy Writers in Kit Form Are the New Clichés](http://agoraphilia.blogspot.com/2004/01/phrases-for-lazy-writers-in-kit-form.html)," _Agoraphilia_, 14 Jan. 2004  
+- Geoffrey K. Pullum, "[Snowclones: Lexicological Dating to the Second](http://itre.cis.upenn.edu/~myl/languagelog/archives/000350.html)," _Language Log_, 16 Jan. 2004
+- Erin O'Connor, "[A bit of Language-Log-ish geekery](https://kirinqueen.livejournal.com/170517.html), _kirinqeen_ blog, 23 June 2005  
+- [The Snowclones Database](https://snowclones.org/about/)
 
 ***  
 
 **Week 2** M 05/23  
 
-Topic: Disposession
+Topic: Image
 
-- [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)"  
-- [Evgeny Morozov](https://twitter.com/evgenymorozov), "Critique of Techno-Feudal Reason" 
+- [Alise Tifentale](https://www.alisetifentale.net/), “[Art of the Masses: From Kodak Brownie to Instagram](https://doi.org/10.31165/nk.2015.86.399.v),”
+- [Lev Manovich](https://manovich.net), "The Aesthetic Society, or How I Edit My Instagram"  
 
 ***  
 
@@ -126,16 +135,10 @@ Topic: Affect
 
 **Week 5** M 06/13  
 
-Topic: Language
+Topic: Disposession
 
-- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
-
-See also:  
-- Geoffrey K. Pullum, "[Phrases for Lazy Writers in Kit Form](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000061.html),"  _Language Log_, 27 Oct. 2003  
-- Glen Whitman, "[Phrases for Lazy Writers in Kit Form Are the New Clichés](http://agoraphilia.blogspot.com/2004/01/phrases-for-lazy-writers-in-kit-form.html)," _Agoraphilia_, 14 Jan. 2004  
-- Geoffrey K. Pullum, "[Snowclones: Lexicological Dating to the Second](http://itre.cis.upenn.edu/~myl/languagelog/archives/000350.html)," _Language Log_, 16 Jan. 2004
-- Erin O'Connor, "[A bit of Language-Log-ish geekery](https://kirinqueen.livejournal.com/170517.html), _kirinqeen_ blog, 23 June 2005  
-- [The Snowclones Database](https://snowclones.org/about/)  
+- [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)"  
+- [Evgeny Morozov](https://twitter.com/evgenymorozov), "Critique of Techno-Feudal Reason"
 
 ***  
 
