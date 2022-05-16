@@ -1,19 +1,8 @@
 ---
 title: ""
-runningheader: "COMM 7018 Social Media Theory" # only for pdf output
-subtitle: "" # only for html output
-author: "Martin Roberts"
-date: "`r Sys.Date()`"
-output:
-  tufte::tufte_html:
-    tufte_variant: "envisioned"
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: xelatex
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: xelatex
-link-citations: yes
+author: ""
+date: '2022-05-16'
+output: word_document
 ---
 # COMM 7018: SOCIAL MEDIA THEORY  
 Fitchburg State University  

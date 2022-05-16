@@ -1,17 +1,33 @@
-## COMM 7018: SOCIAL MEDIA THEORY  
+---
+title: ""
+runningheader: "COMM 7018 Social Media Theory" # only for pdf output
+subtitle: "" # only for html output
+author: "Martin Roberts"
+date: "`r Sys.Date()`"
+output:
+  tufte::tufte_html:
+    tufte_variant: "envisioned"
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+link-citations: yes
+---
+# COMM 7018: SOCIAL MEDIA THEORY  
 Fitchburg State University  
 Communications Media Department  
-MS, Applied Communication, Social Media Concentration  
-GCE Online-Accelerated  
+MS in Applied Communication: Social Media Concentration  
 
-7 weeks, Monday 16 May – Monday 4 July 2022  
+Schedule: Monday 16 May – Monday 4 July 2022  
 Instructor: Dr. Martin Roberts  
-Email: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
+Contact: [email](mailto:mrober40@fitchburgstate.edu)  
 
 ***  
 
-### OVERVIEW  
-The term **social media** is commonly understood as referring to corporate-owned, advertising-funded communication **platforms** based on user-generated content: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
+## OVERVIEW  
+The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated  **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to **theorize** social media? Why do we need social media theory at all?
 
 To theorize something involves a number of processes:
 
@@ -22,19 +38,18 @@ To theorize something involves a number of processes:
 
 These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
 
-We begin by defining the object itself: what exactly do we mean by the term **social media**? Haven't **media** - whether in the ancient or modern sense - always already been **social**? How do **social media** platforms differ from **social networking** platforms? What is a **platform** anyway, and how does it differ from a **medium**? 
+Each week of the course focuses on some of the key dimensions of social media communication:
 
-We then consider each week some of the key dimensions of social media communication:
-
+- the role of **language** in social media and its transformation;  
+- the **aesthetic** dimension of social media communication and the centrality of the **image** as a unit of exchange on social media platforms;  
 - the dimension of **sharing** that is arguably the central practice of social media;
-- the **affective** or emotionally-expresssive dimension of social media, i.e. their role in articulating and sharing **structures of feeling**;
-- the role of **language** in social media and its transformation;
-the concept of the **attention economy** that is the economic basis for commercial social media platforms;
-- the notion of social media as a complex **ecosystem** of interdependent practices, as well as proposals for addressing toxic elements within this ecosystem;
-- finally, we consider the possible **futures** of social media and both their potentially progressive and harmful implications as a site of struggle between competing forces and interests in the century ahead. 
+- the **affective** or emotionally-expresssive dimension of social media, i.e. their role in articulating and sharing **structures of feeling**;  
+- critiques of the **surveillance capitalism** of commercial SM platforms and debates about their practices as a form of **techno-feudalism**;    
+- the notion of social media as a complex **ecosystem** of interdependent practices, as well as proposals for addressing toxic elements within this ecosystem.
 
+***
 
-### OBJECTIVES  
+## OBJECTIVES  
 By the end of the course, students will be able to:
 
 - analyze technologies past, present, and imagined
@@ -46,206 +61,147 @@ By the end of the course, students will be able to:
 
 ***  
 
-### COURSE READINGS  
+## SOURCES: PRINT/WEB  
 
 **Required**  
+These texts have been ordered by the University bookstore.
 
-- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016.   
-- Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_. Riverhead Books, 2019.   
-
-**Recommended**  
-
-- Tim Hwang, _Subprime Attention Crisis: Advertising and the Time Bomb at the Heart of the Internet_. FSG Originals, 2020. 
-- Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_. Cambridge, MA: MIT Press, 2021.  
-- Joanna Zylinska, ed., [_The Future of Media_](https://kclpure.kcl.ac.uk/portal/en/publications/the-future-of-media(ed3f1ada-a46e-4c74-ac5b-9cd59000a732).html). London: Goldsmiths Press, 2022.  [Open Access](https://kclpure.kcl.ac.uk/portal/files/171061098/Future_of_Media_Open_Access.pdf)  
-
+- Nicholas A. John, _The Age of Sharing_. Cambridge: Polity Press, 2016.  
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), [_Because Internet: Understanding the New Rules of Language_](https://gretchenmcculloch.com/book/). Riverhead Books, 2019.     
 **Other sources**  
-These sources are either freely available online or will be posted as PDFs on Blackboard.  
+These sources are either freely available online or excerpts will be posted on Blackboard.  
 
-- Matthew Brennan, _Attention Factory: The Story of TikTok and China's ByteDance_, 2020. 
-- Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014]  
-- Daniel Miller, _How the World Changed Social Media_. London: UCL Press, 2016.  
-- Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
+- Yves Citton, _The Ecology of Attention_. Cambridge: Polity Press, 2017 [French edition: _Pour une écologie de l'attention_, Éditions du Seuil, 2014].   
+- Adam D.I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, "[Experimental evidence of massive-scale emotional contagion through social networks](https://doi.org/10.1073/pnas.1320040111)," _PNAS_, vol. 111, no. 24 (17 June 2014): 8788-8790.  
+- Lev Manovich, "The Aesthetic Society, or How I Edit My Instagram," in Peter Mörtenböck and Helge Mooshammer, eds., _Data Publics: Public Plurality in an Era of Data Determinacy_ (New York: Routledge, 2020).     
+- Tony D. Sampson, Stephen Maddison, Darren Ellis, eds.,  _Affect and Social Media: Emotion, Media, Anxiety and Contagion_. London and New York: Rowman & Littlefield, 2018.  
 - José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_. Oxford: Oxford University Press, 2013.  
+- [Evgeny Morozov](https://twitter.com/evgenymorozov), "[Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason)," _New Left Review_, 133/134 (Jan-Apr 2022).  
+- Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).  
+- Alise Tifentale, “[Art of the Masses: From Kodak Brownie to Instagram](https://doi.org/10.31165/nk.2015.86.399.v),”  _Networking Knowledge: Journal of the MeCCSA Postgraduate Network_ 8 (6) (2015).  
+- [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)," _New York Times_, 12 Nov 2021.
+
+***
+
+## COURSE INFORMATION
+
+**Blackboard**  
+We will be using the Blackboard Learning Management System (LMS) as the primary platform for the course. Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
+
+**Sources**  
+Reading assignments will be either from Required texts, linked to online, or available as PDF documents.   
+
+PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link. The <pdf> folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
 
 ***  
 
-### READING SCHEDULE  
+## READING SCHEDULE  
 
 **Week 1** M 05/16  
 
-Topic: Defining  
+Topic: Speaking/Writing
 
-- Daniel Miller, _How the World Changed Social Media_: "What is social media?," "Academic studies of social media" (chs. 1-2).  
+- [Gretchen McCulloch](https://gretchenmcculloch.com/), _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
+
+See also:  
+
+- Geoffrey K. Pullum, "[Phrases for Lazy Writers in Kit Form](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/000061.html),"  _Language Log_, 27 Oct. 2003  
+- Glen Whitman, "[Phrases for Lazy Writers in Kit Form Are the New Clichés](http://agoraphilia.blogspot.com/2004/01/phrases-for-lazy-writers-in-kit-form.html)," _Agoraphilia_, 14 Jan. 2004  
+- Geoffrey K. Pullum, "[Snowclones: Lexicological Dating to the Second](http://itre.cis.upenn.edu/~myl/languagelog/archives/000350.html)," _Language Log_, 16 Jan. 2004
+- Erin O'Connor, "[A bit of Language-Log-ish geekery](https://kirinqueen.livejournal.com/170517.html), _kirinqeen_ blog, 23 June 2005  
+- [The Snowclones Database](https://snowclones.org/about/)
 
 ***  
 
 **Week 2** M 05/23  
 
-Topic: Sharing  
+Topic: Aesthetics
+
+- [Alise Tifentale](https://www.alisetifentale.net/), “[Art of the Masses: From Kodak Brownie to Instagram](https://doi.org/10.31165/nk.2015.86.399.v),”
+- [Lev Manovich](https://manovich.net), "The Aesthetic Society, or How I Edit My Instagram"  
+
+***  
+
+**Week 3** M 05/30  
+
+ Topic: Sharing  
 
 - José van Dijck, _The Culture of Connectivity_: "Facebook and the Imperative of Sharing" (ch. 3)  
 - Nicholas John, _The Age of Sharing_: "Introduction," "Sharing and the Internet" (ch. 3)
 
 ***  
 
-**Week 3** M 05/30  
-
-Topic: Feeling  
-
-- Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
-- Tony D. Sampson, Stephen Maddison, Darren Ellis, _Affect and Social Media: Emotion, Media, Anxiety and Contagion_: 
-
-
-***  
-
 **Week 4** M 06/06  
 
-Topic: Language  
+Topic: Affect  
 
-- Gretchen McCulloch, _Because Internet_: "Informal Writing," "Typographical Tone of Voice," "Emoji and Other Internet Gestures" (chs. 1, 4, 5)  
-- [The Snowclones Database](https://snowclones.org/about/)  
+- Nicholas John, _The Age of Sharing_: "Sharing our Feelings" (ch. 3)  
+- Tony D. Sampson et al., _Affect and Social Media: Emotion, Media, Anxiety and Contagion_: "Introduction: On Affect, Social Media and Criticality"  
+- Optional: Adam D.I. Kramer, et al., "[Experimental evidence of massive-scale emotional contagion through social networks](https://doi.org/10.1073/pnas.1320040111)," _PNAS_, vol. 111, no. 24 (17 June 2014): 8788-8790
 
 ***  
 
 **Week 5** M 06/13  
 
-Topic: Attention  
+Topic: Disposession
 
-- Yves Citton, _The Ecology of Attention_: "Introduction: From Attention Economy to Attention Ecology"  
-- Tim Hwang, _Subprime Attention Crisis_: "Introduction," "The Plumbing," "Subprime Attention" (chs. 1, 4)  
-- See also: Brennan, _Attention Factory_, chs. tba
+- [Shoshana Zuboff](https://shoshanazuboff.com), "[You Are the Object of a Secret Extraction Operation](https://www.nytimes.com/2021/11/12/opinion/facebook-privacy.html)"  
+- [Evgeny Morozov](https://twitter.com/evgenymorozov), "Critique of Techno-Feudal Reason"
 
 ***  
 
 **Week 6** M 06/20  
 
-Topic: Detoxing  
+Topic: Ecologies  
 
-- Whitney Phillips and Ryan M. Milner, _You Are Here_: "Cultivating Ecological Literacy" (ch. 5)   
+- Yves Citton, _The Ecology of Attention_: "Introduction: From Attention Economy to Attention Ecology"  
+- Whitney Phillps and Ryan Milner, _You Are Here_: "Introduction: Mapping Network Pollution"  
 
 ***  
 
 **Week 7** M 06/27  
 
-Topic: The Future
-
-Joanna Zylinska, ed., _The Future of Media_:
-
-- The Future of Social Media: Milly Williamson, "The Celebrity Selfie: Gender, Race, and 'New' Old Ways of Seeing" (ch. 7)
-- The Future of Activism: Sue Clayton, "How Smartphones and Digital Apps are Transforming Activist Movements" (ch. 14).  
+Topic: Research paper presentations
 
 ***
 
-### WORKFLOW & EXPECTATIONS
+## ASSIGNMENTS & EVALUATION
 
-The above schedule is provisional; any changes to reading materials and/or assignment deadlines will be announced on Blackboard.
+- **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)   
+- **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the _following_ Friday (20%)    
+- **Commentary**: 2 short papers, 750-1000 words, due Friday of Week 2 and Week 4 (20%)    
+- **Research paper/report/other project**: 2,000 words, due Friday of week 6 (20%)    
+- **Colloquium**: week 7, flexible format - slides, video/audio, web page, blog, wiki (20%)      
 
-You are expected to complete reading and and discussion board assignments for each week the end of the day on Friday; discussion board question posts are due Friday evening on their the weekly  discussion boards.
+**Discussion: Agenda, Review, Reply Posts**   
+For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks. 
 
-### RULES & GRADING POLICY
+By the end of the day on **Monday** of each week, I will post an Agenda item in the Discussion forum for the topic of the week, that introduces and contextualizes the reading assignments for the week, identifying key themes, concepts, and/or issues to look out for as you read. Be sure to read the Agenda post before beginning the reading assignments. 
 
-**Responsibilities**  
-You are required to use Blackboard during class. Course materials, reading assignments, due dates and outlines are posted on Blackboard and updated weekly: this means that assigned readings, assignments and due dates may change. You are responsible for reading any course announcements that are posted on Blackboard.
+In the first week,  complete the reading assignments and make an initial response post called a Review, with question and/or comments on them, by **Friday** of the week in question. 
 
-This class is a safe space from racist, sexist, or homophobic speech. If you do use hate speech in any forum associated with the class you will be subject to removal from class and possibly University disciplinary action. Keep it clean, polite and respectful on class time.
+In the second week,  read through the Review posts of the group and post at least one Reply to one of them by Friday of that week.
 
-### ASSIGNMENTS & EVALUATION
+**Commentary Papers**  
+These short papers (750-1,000 words) are due at the end of Week 2 and Week 4 (Sunday). They should consist of close analytical readings of any of the reading assignments for the period Weeks 1-2 or 3-4. You are encouraged to focus in detail on particular sections, arguments, and/or concepts from the readings and develop them.
 
-Grades are based on:
+**Research Paper/Project**  
+The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project of your choice. 
 
-- Midterm project description: 25% 
-- Term project and presentation: 50% (various components across the semester - see below for details)
-- Engagement and discussion board participation: 25%
+A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 3, and you will receive feedback during Week 4. 
 
-Midterm Project Description: 25%
+**Colloquium**  
+Research papers/projects will be presented to and discussed with the group at the Colloquium scheduled over the last week of the course. Presentation formats are flexible, and may include a recorded slide presentation (20 slides max.) with voiceover; an audiovisual essay; or a web page, wiki, or blog.  
 
-**Weekly Assignments**  
-By the end of the day on Friday of each week, you will have completed one of the following:
+***
 
-- posted a short comment on and at least one question about the readings on the discussion board for the week
-- submitted at least one response to at least one classmate on their question
-
-It’s very important to keep up with and show that you are thinking about the readings and your responses to them.
-
-On **Monday**  of each week, I will make an introductory post called an Agenda that introduces and contextualizes the reading assignments for the week, and identifies key themes, concepts, and/or issues to look out for as you read. Be sure to read the Monday agenda post before beginning the readings, and aim to complete them by around mid-week so that you can post your response and/or questions.
-
-**Term Project**  
-In week 2 you will submit a one-page project proposal, using the proposal template I’ll provide on Blackboard, on a topic relevant to the course that is of interest to you. This is worth 5% of your final grade.
-
-You're required to discuss your proposal with me before submitting it. I will provide suggestions for research and development, along with helping you refine your topic and project deliverable. A discussion board will be available for you to submit ideas and discuss this with us so all of us can talk about your idea. 
-
-Deliverables for the term project may include research papers, fieldwork reports, media creations, app/software design, or other things in consultation with me.
-
-In week 4 you will submit a project progress report. This will focus on what you’ve done to meet the goals you set out in your proposal and what you need to do to complete successfully. This will be worth 5% of your final grade.
-
-In week 7 you will deliver an audiovisual presentation on your project. The presentation should address what your project was about, why you chose it, the significance of the topic itself, how you went about investigating it, and what you concluded. This will be worth 5% of your final grade.  
-
-To do this in PowerPoint: There should be a menu called “Slide Show.” On this menu, there’s a choice called “Slide transition (or just Transitions) . . . ” When you select it, you’ll see options for advancing the slide. Clear the check box beside “On Mouse Click,” and put (for example) “20″ in the box: “Automatically after seconds.”
-
-Final presentations are hard. Rehearse, and then rehearse a lot more. I will book a time for rehearsals the week before presentation day. Attendance will be optional but strongly encouraged.
-
-In week 7 you will also submit your paper. This will be worth 20% of your final grade.
-
-**Discussion board questions**  
-
-For the weeks specified on the schedule (pay careful attention!):
-
-- by the end of the day on Friday each week post one substantive  question or comment related to the reading assignments for that  week. You should also submit at least one comment in response to posts by other students.  
-
-The pupose of the question assignment is:
-
-- to identify subjects/issues that are of interest to the entire group are there particular points or issues that consistently draw the class’s attention?
-- to highlight aspects people might not have understood, or would like to see expressed more clearly during our class sessions.
-- to help us to get to know _you_ better: are you the person who always asks about economics, or politics, or pop culture?
-
-**Reading questions and responses**  
-A _weak_ question is superficial, like a grade-school pop quiz question: “How does the author define X?” “How many copies of _Halo Reach_ were sold last year?” Weak questions have answers already in the material or are stock questions that potentially apply to anything: “Isn’t this bad for kids?”
-
-A _good_ question calls for explanation or clarification: “Does Huizinga mean that games played for money aren’t games at all, or that they somehow stop being games when people get paid?”
-
-An _excellent_ question link the reading to something else: “How does Huizinga’s attitude towards being paid to play relate to the role of amateurism in the Olympics and European aristocratic attitudes towards labor?”
-
-A sentence or two is fine. You won’t get more credit for more words: concision and clarity are good things.
-
-Below are some examples of questions from a previous class (on games studies) that represent “good” and “excellent” questions.
-
-_Example #1:_  
-“I want to primarily focus on "Bow, N****". How has the internet and by extension online gaming allowed for individuals to express racial views that are considered socially unacceptable? Do these people truly feel this way or is there some sort of stimulus that promotes this usage online?”
-
-_Example #2_  
-“I'm talking about Alter Ego.	The more options and choices that were presented, the more unrealistic portions of the game seemed.	At what point do we sacrifice realism in favor of control over the story? And at what point do we sacrifice control for the sake of realism? In my experience some of the best entertainment has come from finding the proper balance of these two, be it in a book, video game, or other form of media	It is this choice that leads to the complexity and realism in life that I don't think video games are able to capture in its complexity and nuances.
-
-***  
-
-### GCE LEARNING COMPETENCIES
-
-**Critical Thinking & Problem Solving**  
-The exam and term project formats are designed to confront students with a case drawn from current events in order to demonstrate their ability to apply theories, diagnose problems, and suggest solutions, both in a real-time, in-class exercise and over the course of the term in a more deliberative manner. In-class discussion focuses on students’ developing and defending personal views on key issues based upon evidence and theoretical frames.
-
-**Communication**  
-Students are encouraged to develop strengths in both written and oral communication, both deliberative and spontaneous, while the grading rubric recognizes that students have different strengths and comfort levels across media of expression. The format of the final presentation places a premium on conciseness, mastery of the material to be presented, and audience impact.
-
-**Ethical Decision Making**  
-This course examines the ethical underpinnings of technology design and use. It actively encourages students to discern and critique the ethical components of technology and to assert their own ethical values in technological analysis. The exams in particular call upon students to articulate an ethical and theoretical underpinning for their diagnoses of current problems and advocacy of solutions to those problems.
-
-**Global Awareness**  
-This course addresses the impact of technologies at the global scale, introduces concepts of global technological governance, and provides a range of readings and guest speakers from outside the US.
-
-**Civic Engagement**  
-This course does not call upon students to demonstrate civic engagement. Rather, it provides tools of critical thinking, ability to recognize global and local impacts, and the articulation of personal political lenses based upon theoretical frameworks and data analysis, in order to empower students with the tools for informed and effective engagement with the impacts of technologies at local, national, and global levels.
-
-[This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
-
-### BIBLIOGRAPHY  
+## SELECT BIBLIOGRAPHY  
   
-\[A\] = Audible.com audiobook
+danah boyd, _It’s Complicated: The Social Lives of Networked Teens_ (New Haven: Yale University Press, 2014).
 
-\[A\] danah boyd, _It’s Complicated: The Social Lives of Networked Teens_ (New Haven: Yale University Press, 2014).
+Finn Brunton and Helen Nissenbaum, _Obfuscation: A User’s Guide for Privacy and Protest_ (Cambridge: MIT Press, 2016).
 
-\[A\] Finn Brunton and Helen Nissenbaum, _Obfuscation: A User’s Guide for Privacy and Protest_ (Cambridge: MIT Press, 2016).
-
-\[A\] Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_ (London and New York: Verso, 2014).
+Gabriella Coleman, _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_ (London and New York: Verso, 2014).
 
 David Craig, Jian Lin, and Stuart Cunningham, _Wanghong as Social Media Entertainment in China_. Palgrave Studies in Globalization, Culture and Society (London: Palgrave, 2021).
 
@@ -265,38 +221,38 @@ Lev Manovich, _Instagram and Contemporary Image_ (2015-17).
 
 --\- _Cultural Analytics_ (Cambridge: MIT Press, 2020).
 
-\[A\] Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_ (New York: Riverhead Books, 2019).
+Gretchen McCulloch, _Because Internet: Understanding the New Rules of Language_ (New York: Riverhead Books, 2019).
 
-\[A\] Angela Nagle, _Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right_ (Alresford, Hampshire, UK: Zero Books, 2017).
+Angela Nagle, _Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right_ (Alresford, Hampshire, UK: Zero Books, 2017).
 
 Whitney Phillips, _This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture_ (Cambridge: MIT Press, 2015).
 
-\[A\] Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).
+Whitney Phillips and Ryan M. Milner, _You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape_ (Cambridge: MIT Press, 2021).
 
-\[A\] Zoë Quinn, _Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate_ (New York: PublicAffairs, 2017).
+Zoë Quinn, _Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate_ (New York: PublicAffairs, 2017).
 
-\[A\] Jon Ronson, _So You've Been Publicly Shamed_ ( New York: Riverhead Books, 2015).
+Jon Ronson, _So You've Been Publicly Shamed_ ( New York: Riverhead Books, 2015).
 
-\[A\] Kai Strittmatter, _We Have Been Harmonized: Life in China's Surveillance State_ (New York: HarperCollins, 2020).
+Kai Strittmatter, _We Have Been Harmonized: Life in China's Surveillance State_ (New York: HarperCollins, 2020).
 
-\[A\] Zeynep Tufekci, _Twitter and Tear Gas: The Power and Fragility of Networked Protest_ (New Haven: Yale University Press, 2017).
+Zeynep Tufekci, _Twitter and Tear Gas: The Power and Fragility of Networked Protest_ (New Haven: Yale University Press, 2017).
 
-\[A\] Siva Vaidyanathan, _Antisocial Media: How Facebook Disconnects Us and Undermines Democracy_ (Oxford: Oxford University Press, 2018).
+Siva Vaidyanathan, _Antisocial Media: How Facebook Disconnects Us and Undermines Democracy_ (Oxford: Oxford University Press, 2018).
 
 ***
 
-### LATE POLICY
+## LATE POLICY
 
 Assignments that are late will lose 1/2 of a grade per day, beginning at the end of class and including weekends and holidays. This means that a paper, which would have received an A if it was on time, will receive a B+ the next day, B- for two days late, and so on. Time management, preparation for our meetings, and timely submission of your work comprise a significant dimension of your professionalism. As such, your work must be completed by the beginning of class on the day it is due. If you have a serious problem that makes punctual submission impossible, you must discuss this matter with me before the due date so that we can make alternative arrangements. Because you are given plenty of time to complete your work, and major due dates are given to you well in advance, last minute problems should not preclude handing in assignments on time.
 
 ***
 
-### MANDATORY REPORTER
+## MANDATORY REPORTER
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are “mandatory reporters,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit [http://fitchburgstate.edu/titleix](http://fitchburgstate.edu/titleix) to access information about university support and resources.
 
 ***
 
-### HEALTH
+## HEALTH
 [Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
 
 Hours: Monday-Friday 8:30AM-5PM
@@ -317,7 +273,7 @@ The university continues to partner with Our Father's House to support student n
 
 ***
 
-### ACADEMIC INTEGRITY
+## ACADEMIC INTEGRITY
 The University “Academic Integrity” policy can be found online at [http:// www.fitchburgstate.edu/offices-services-directory/office-of-student-conductmediation-education/academic-integrity/.](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
 
 Plagiarism includes, but is not limited to:
@@ -330,12 +286,12 @@ _If you're not clear on what is or is not plagiarism, ASK. The BEST case scenari
 
 ***
 
-### AMERICANS WITH DISABILITIES ACT (ADA)
+## AMERICANS WITH DISABILITIES ACT (ADA)
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
 
 ***
 
-### TECHNOLOGY
+## TECHNOLOGY
 At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
 
 -   Plan ahead: A deadline is the last minute to turn in material. You can start—and finish—early, particularly if challenging resources are required, or you know it will be time consuming to finish this project.
@@ -350,7 +306,7 @@ At some point during the semester you will likely have a problem with technology
     
   ***
 
-### GRADING POLICY
+## GRADING POLICY
 Grading for the course will follow the FSU grading policy below:
 
 4.0: 95-100  
@@ -366,7 +322,7 @@ Grading for the course will follow the FSU grading policy below:
 
 ***
 
-### ACADEMIC RESOURCES
+## ACADEMIC RESOURCES
 
 [Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
 
@@ -379,4 +335,5 @@ Grading for the course will follow the FSU grading policy below:
 [University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/careerservices/)
 
 ***
+
 
