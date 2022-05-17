@@ -6,7 +6,7 @@ author: "Martin Roberts"
 date: "`r Sys.Date()`"
 output:
   tufte::tufte_html:
-    tufte_variant: "envisioned"
+    css: "my_style.css"
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex

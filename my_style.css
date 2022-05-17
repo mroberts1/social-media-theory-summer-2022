@@ -1,0 +1,21 @@
+@import url("https://use.typekit.net/esx7sbu.css");
+@charset "UTF-8";
+
+h1,h2,h3 {
+  font-style: normal;
+  font-weight: 600;
+}
+
+body {
+  font-family: "IBM Plex Mono";
+  
+}
+h1 {
+  font-size: 1.6em;
+  font-family: "Libre Franklin", sans-serif;
+}
+
+h2 {
+  font-size: 1.4em;
+  font-family: "Libre Franklin", sans-serif;
+}
