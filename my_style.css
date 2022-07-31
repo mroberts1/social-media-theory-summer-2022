@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+@import url("https://use.typekit.net/uds6lpa.css");
+
 @charset "UTF-8";
 
 h1,h2,h3 {
@@ -6,15 +9,20 @@ h1,h2,h3 {
 }
 
 body {
-  font-family: "Lato";
+  font-family: "Proxima Nova", sans-serif;
   
 }
 h1 {
   font-size: 1.6em;
-  font-family: "Libre Franklin", sans-serif;
+  font-family: "Sanchez", sans-serif;
 }
 
 h2 {
   font-size: 1.4em;
-  font-family: "Libre Franklin", sans-serif;
+  font-family: "Sanchez", sans-serif;
+}
+
+h3 {
+  font-size: 1.4em;
+  font-family: "Sanchez", sans-serif;
 }
