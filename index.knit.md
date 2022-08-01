@@ -1,7 +1,7 @@
 ---
 title: ''
 author: "Martin Roberts"
-date: "`r Sys.Date()`"
+date: "2022-08-01"
 output:
   tufte::tufte_html:
     css: my_style.css
